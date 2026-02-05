@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.7">
   <diagram name="Page-1" id="EC0Nx34W9DZhopzm9JBt">
-    <mxGraphModel dx="2778" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
         <mxCell id="-FVzVK-hBYo2_B3iOKwJ-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="worker-6" vertex="1">
           <mxGeometry height="60" width="60" x="70" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="-FVzVK-hBYo2_B3iOKwJ-21" edge="1" parent="1" source="-FVzVK-hBYo2_B3iOKwJ-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-FVzVK-hBYo2_B3iOKwJ-5">
+        <mxCell id="-FVzVK-hBYo2_B3iOKwJ-21" edge="1" parent="1" source="-FVzVK-hBYo2_B3iOKwJ-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="-FVzVK-hBYo2_B3iOKwJ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-FVzVK-hBYo2_B3iOKwJ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="worker-5" vertex="1">
@@ -244,7 +244,7 @@
           <mxGeometry height="50" width="100" x="660" y="740" as="geometry" />
         </mxCell>
         <mxCell id="rDA81H0voKxXS4T-Zvgn-14" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;CPU Resources&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The following graphic describes the required CPU usage and availability in the experiment. It is measured in Millicores (1000m=1 core)&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="210" x="40" y="690" as="geometry" />
+          <mxGeometry height="140" width="230" x="40" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
