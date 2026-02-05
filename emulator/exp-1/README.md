@@ -4,5 +4,7 @@ This first experiment is not meant to be realistic, but to showcase the strength
 
 ## Setup
 
+![image](./setup.drawio.png)
+
 - 8 nodes, 12 pods
 - Pods of pairings: 3->1, 3->1, 2->1, 1->1, 1->1
