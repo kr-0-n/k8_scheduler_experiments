@@ -1,0 +1,454 @@
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+Server listening on 5002 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.42.7.4, port 55984
+[  5] local 10.42.7.5 port 5002 connected to 10.42.7.4 port 55994
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec                  receiver
+Server listening on 5003 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.42.0.10, port 37504
+[  5] local 10.42.7.5 port 5003 connected to 10.42.0.10 port 37510
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  10.00-11.00  sec  0.00 Bytes  0.00 bits/sec                  
+[  5]  11.00-12.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  12.00-12.98  sec  0.00 Bytes  0.00 bits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-12.98  sec   768 KBytes   485 Kbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5002 (test #2)
+-----------------------------------------------------------
+Accepted connection from 10.42.6.3, port 58774
+[  5] local 10.42.7.5 port 5002 connected to 10.42.6.3 port 58790
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+-----------------------------------------------------------
+Server listening on 5002 (test #3)
+-----------------------------------------------------------
+Accepted connection from 10.42.7.4, port 56096
+[  5] local 10.42.7.5 port 5002 connected to 10.42.7.4 port 56104
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5003 (test #2)
+-----------------------------------------------------------
+Accepted connection from 10.42.2.5, port 48394
+[  5] local 10.42.7.5 port 5003 connected to 10.42.2.5 port 48396
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec  0.00 Bytes  0.00 bits/sec                  
+[  5]  10.00-11.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  11.00-12.00  sec  0.00 Bytes  0.00 bits/sec                  
+[  5]  12.00-13.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  13.00-13.45  sec  0.00 Bytes  0.00 bits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-13.45  sec   896 KBytes   546 Kbits/sec                  receiver
+Server listening on 5004 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.42.0.10, port 58114
+[  5] local 10.42.7.5 port 5004 connected to 10.42.0.10 port 56086
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  10.00-10.32  sec   128 KBytes  3.24 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.32  sec  1.25 MBytes  1.02 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5002 (test #4)
+-----------------------------------------------------------
+Accepted connection from 10.42.7.4, port 40100
+[  5] local 10.42.7.5 port 5002 connected to 10.42.7.4 port 40110
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5003 (test #3)
+-----------------------------------------------------------
+Accepted connection from 10.42.2.5, port 50796
+[  5] local 10.42.7.5 port 5003 connected to 10.42.2.5 port 50810
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  10.00-11.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  11.00-12.00  sec  0.00 Bytes  0.00 bits/sec                  
+[  5]  12.00-13.00  sec   128 KBytes  1.05 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-13.07  sec  1.00 MBytes   642 Kbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5004 (test #2)
+-----------------------------------------------------------
+Accepted connection from 10.42.0.10, port 50252
+[  5] local 10.42.7.5 port 5004 connected to 10.42.0.10 port 39504
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  10.00-10.33  sec   128 KBytes  3.21 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.33  sec  1.25 MBytes  1.02 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5002 (test #5)
+-----------------------------------------------------------
+Accepted connection from 10.42.7.4, port 43750
+[  5] local 10.42.7.5 port 5002 connected to 10.42.7.4 port 43764
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5003 (test #4)
+-----------------------------------------------------------
+Accepted connection from 10.42.2.5, port 56010
+[  5] local 10.42.7.5 port 5003 connected to 10.42.2.5 port 56024
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  10.00-11.00  sec  0.00 Bytes  0.00 bits/sec                  
+[  5]  11.00-12.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  12.00-13.00  sec  0.00 Bytes  0.00 bits/sec                  
+[  5]  13.00-13.58  sec   128 KBytes  1.80 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-13.58  sec   896 KBytes   540 Kbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5002 (test #6)
+-----------------------------------------------------------
+Accepted connection from 10.42.0.10, port 56386
+[  5] local 10.42.7.5 port 5002 connected to 10.42.0.10 port 56390
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  10.00-10.32  sec  0.00 Bytes  0.00 bits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.32  sec  1.12 MBytes   914 Kbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5003 (test #5)
+-----------------------------------------------------------
+Accepted connection from 10.42.7.4, port 52420
+[  5] local 10.42.7.5 port 5003 connected to 10.42.7.4 port 52434
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5002 (test #7)
+-----------------------------------------------------------
+Accepted connection from 10.42.2.5, port 53834
+[  5] local 10.42.7.5 port 5002 connected to 10.42.2.5 port 53840
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  10.00-11.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  11.00-12.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  12.00-12.64  sec  0.00 Bytes  0.00 bits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-12.64  sec  1.12 MBytes   746 Kbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5003 (test #6)
+-----------------------------------------------------------
+Accepted connection from 10.42.0.10, port 45590
+[  5] local 10.42.7.5 port 5003 connected to 10.42.0.10 port 45596
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  10.00-11.00  sec   256 KBytes  2.10 Mbits/sec                  
+[  5]  11.00-12.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  12.00-12.28  sec  0.00 Bytes  0.00 bits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-12.28  sec  1.00 MBytes   683 Kbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5004 (test #3)
+-----------------------------------------------------------
+Accepted connection from 10.42.7.4, port 38122
+[  5] local 10.42.7.5 port 5004 connected to 10.42.7.4 port 38136
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5002 (test #8)
+-----------------------------------------------------------
+Accepted connection from 10.42.2.5, port 55108
+[  5] local 10.42.7.5 port 5002 connected to 10.42.2.5 port 55114
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  10.00-11.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  11.00-11.88  sec  0.00 Bytes  0.00 bits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-11.88  sec  1.12 MBytes   795 Kbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5003 (test #7)
+-----------------------------------------------------------
+Accepted connection from 10.42.0.10, port 37876
+[  5] local 10.42.7.5 port 5003 connected to 10.42.0.10 port 37878
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   256 KBytes  2.10 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  10.00-11.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  11.00-12.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  12.00-12.13  sec  0.00 Bytes  0.00 bits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-12.13  sec  1.00 MBytes   692 Kbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5004 (test #4)
+-----------------------------------------------------------
+Accepted connection from 10.42.7.4, port 46332
+[  5] local 10.42.7.5 port 5004 connected to 10.42.7.4 port 46336
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5002 (test #9)
+-----------------------------------------------------------
+Accepted connection from 10.42.2.5, port 58928
+[  5] local 10.42.7.5 port 5002 connected to 10.42.2.5 port 58942
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec  0.00 Bytes  0.00 bits/sec                  
+[  5]  10.00-11.00  sec   128 KBytes  1.05 Mbits/sec                  
+-----------------------------------------------------------
+Server listening on 5003 (test #8)
+-----------------------------------------------------------
+Accepted connection from 10.42.0.10, port 40958
+[  5] local 10.42.7.5 port 5003 connected to 10.42.0.10 port 40960
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  10.00-11.00  sec  0.00 Bytes  0.00 bits/sec                  
+[  5]  11.00-12.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  12.00-13.00  sec  0.00 Bytes  0.00 bits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-13.10  sec  1.00 MBytes   640 Kbits/sec                  receiver
+[  5]  11.00-12.00  sec   128 KBytes  1.05 Mbits/sec                  
+[  5]  12.00-13.00  sec  0.00 Bytes  0.00 bits/sec                  
+[  5]  13.00-13.65  sec  0.00 Bytes  0.00 bits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-13.65  sec   768 KBytes   461 Kbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5004 (test #5)
+-----------------------------------------------------------
+Accepted connection from 10.42.7.4, port 38056
+[  5] local 10.42.7.5 port 5004 connected to 10.42.7.4 port 38060
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec                  receiver

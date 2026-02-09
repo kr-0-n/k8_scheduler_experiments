@@ -1,0 +1,842 @@
+Fr 6. Feb 13:52:55 UTC 2026: Start Scheduler
+2026/02/06 13:53:00 Adding node manager-0
+2026/02/06 13:53:00 Found  manager-0 Online= True
+2026/02/06 13:53:00 Node added:  2026-02-06 13:52:40 +0000 UTC
+2026/02/06 13:53:10 Adding node worker-0
+2026/02/06 13:53:10 leases.coordination.k8s.io "worker-0" not found
+2026/02/06 13:53:10 Node added:  2026-02-06 13:53:10 +0000 UTC
+2026/02/06 13:53:10 leases.coordination.k8s.io "worker-0" not found
+2026/02/06 13:53:10 leases.coordination.k8s.io "worker-0" not found
+2026/02/06 13:53:10 Adding node worker-2
+2026/02/06 13:53:10 leases.coordination.k8s.io "worker-2" not found
+2026/02/06 13:53:10 Node added:  2026-02-06 13:53:10 +0000 UTC
+2026/02/06 13:53:10 Adding node worker-6
+2026/02/06 13:53:10 leases.coordination.k8s.io "worker-6" not found
+2026/02/06 13:53:10 Node added:  2026-02-06 13:53:10 +0000 UTC
+2026/02/06 13:53:10 Adding node worker-5
+2026/02/06 13:53:10 leases.coordination.k8s.io "worker-5" not found
+2026/02/06 13:53:10 Node added:  2026-02-06 13:53:10 +0000 UTC
+2026/02/06 13:53:10 leases.coordination.k8s.io "worker-2" not found
+2026/02/06 13:53:10 leases.coordination.k8s.io "worker-5" not found
+2026/02/06 13:53:10 leases.coordination.k8s.io "worker-6" not found
+2026/02/06 13:53:10 Adding node worker-1
+2026/02/06 13:53:10 leases.coordination.k8s.io "worker-1" not found
+2026/02/06 13:53:10 Node added:  2026-02-06 13:53:10 +0000 UTC
+2026/02/06 13:53:10 leases.coordination.k8s.io "worker-5" not found
+2026/02/06 13:53:10 leases.coordination.k8s.io "worker-6" not found
+2026/02/06 13:53:11 leases.coordination.k8s.io "worker-2" not found
+2026/02/06 13:53:11 Found  worker-0 Online= False
+2026/02/06 13:53:11 Found  worker-1 Online= False
+2026/02/06 13:53:11 Found  manager-0 Online= True
+2026/02/06 13:53:11 leases.coordination.k8s.io "worker-2" not found
+2026/02/06 13:53:12 leases.coordination.k8s.io "worker-6" not found
+2026/02/06 13:53:12 Found  worker-5 Online= False
+2026/02/06 13:53:12 Adding node worker-3
+2026/02/06 13:53:12 Found  worker-3 Online= False
+2026/02/06 13:53:12 Node added:  2026-02-06 13:53:10 +0000 UTC
+2026/02/06 13:53:12 Found  worker-3 Online= False
+2026/02/06 13:53:12 Found  worker-3 Online= False
+2026/02/06 13:53:13 Found  worker-1 Online= False
+2026/02/06 13:53:13 Found  worker-1 Online= False
+2026/02/06 13:53:13 Adding node worker-4
+2026/02/06 13:53:13 leases.coordination.k8s.io "worker-4" not found
+2026/02/06 13:53:13 Node added:  2026-02-06 13:53:10 +0000 UTC
+2026/02/06 13:53:13 leases.coordination.k8s.io "worker-4" not found
+2026/02/06 13:53:13 leases.coordination.k8s.io "worker-2" not found
+2026/02/06 13:53:14 Found  manager-0 Online= True
+2026/02/06 13:53:14 Found  worker-5 Online= False
+2026/02/06 13:53:14 leases.coordination.k8s.io "worker-4" not found
+2026/02/06 13:53:14 leases.coordination.k8s.io "worker-6" not found
+2026/02/06 13:53:14 Found  worker-1 Online= False
+2026/02/06 13:53:15 Found  worker-3 Online= False
+2026/02/06 13:53:15 leases.coordination.k8s.io "worker-4" not found
+2026/02/06 13:53:15 leases.coordination.k8s.io "worker-4" not found
+2026/02/06 13:53:15 Found  worker-0 Online= True
+2026/02/06 13:53:15 Found  worker-0 Online= True
+2026/02/06 13:53:16 leases.coordination.k8s.io "worker-2" not found
+2026/02/06 13:53:16 leases.coordination.k8s.io "worker-2" not found
+2026/02/06 13:53:16 leases.coordination.k8s.io "worker-4" not found
+2026/02/06 13:53:16 leases.coordination.k8s.io "worker-4" not found
+2026/02/06 13:53:16 Found  worker-5 Online= True
+2026/02/06 13:53:17 leases.coordination.k8s.io "worker-6" not found
+2026/02/06 13:53:17 Found  worker-5 Online= True
+2026/02/06 13:53:17 leases.coordination.k8s.io "worker-6" not found
+2026/02/06 13:53:17 Found  worker-1 Online= True
+2026/02/06 13:53:17 Found  worker-1 Online= True
+2026/02/06 13:53:18 leases.coordination.k8s.io "worker-6" not found
+2026/02/06 13:53:18 Found  worker-3 Online= True
+2026/02/06 13:53:18 leases.coordination.k8s.io "worker-6" not found
+2026/02/06 13:53:18 Found  worker-3 Online= True
+2026/02/06 13:53:18 Found  worker-0 Online= True
+2026/02/06 13:53:19 Found  worker-0 Online= True
+2026/02/06 13:53:19 leases.coordination.k8s.io "worker-2" not found
+2026/02/06 13:53:19 leases.coordination.k8s.io "worker-2" not found
+2026/02/06 13:53:19 Found  worker-5 Online= True
+2026/02/06 13:53:19 Found  worker-5 Online= True
+2026/02/06 13:53:20 Found  worker-3 Online= True
+2026/02/06 13:53:20 Found  worker-3 Online= True
+2026/02/06 13:53:20 Found  worker-1 Online= True
+2026/02/06 13:53:20 Found  worker-1 Online= True
+2026/02/06 13:53:20 leases.coordination.k8s.io "worker-4" not found
+2026/02/06 13:53:21 Found  worker-4 Online= True
+2026/02/06 13:53:21 Found  worker-6 Online= True
+2026/02/06 13:53:21 Found  worker-0 Online= True
+2026/02/06 13:53:21 Found  manager-0 Online= True
+2026/02/06 13:53:21 Found  worker-2 Online= True
+2026/02/06 13:53:22 Found  worker-6 Online= True
+2026/02/06 13:53:22 Found  worker-3 Online= True
+2026/02/06 13:53:22 Found  worker-3 Online= True
+2026/02/06 13:53:22 Found  worker-4 Online= True
+2026/02/06 13:53:22 Found  worker-4 Online= True
+2026/02/06 13:53:23 Found  worker-5 Online= True
+2026/02/06 13:53:23 Found  worker-5 Online= True
+2026/02/06 13:53:23 Found  worker-1 Online= True
+2026/02/06 13:53:23 Found  worker-1 Online= True
+2026/02/06 13:53:23 Found  worker-2 Online= True
+2026/02/06 13:53:31 Found  worker-4 Online= True
+2026/02/06 13:53:31 Found  worker-0 Online= True
+2026/02/06 13:53:31 Found  worker-5 Online= True
+2026/02/06 13:53:31 Found  worker-1 Online= True
+2026/02/06 13:53:31 Found  manager-0 Online= True
+2026/02/06 13:53:31 Found  worker-2 Online= True
+2026/02/06 13:53:31 Found  worker-6 Online= True
+2026/02/06 13:53:31 Found  worker-3 Online= True
+2026/02/06 13:53:41 Found  manager-0 Online= True
+2026/02/06 13:53:41 Found  worker-2 Online= True
+2026/02/06 13:53:41 Found  worker-6 Online= True
+2026/02/06 13:53:41 Found  worker-3 Online= True
+2026/02/06 13:53:41 Found  worker-4 Online= True
+2026/02/06 13:53:41 Found  worker-0 Online= True
+2026/02/06 13:53:41 Found  worker-0 Online= True
+2026/02/06 13:53:41 Found  worker-5 Online= True
+2026/02/06 13:53:41 Found  worker-1 Online= True
+2026/02/06 13:53:41 Found  worker-4 Online= True
+2026/02/06 13:53:41 Found  worker-1 Online= True
+2026/02/06 13:53:41 Found  worker-5 Online= True
+2026/02/06 13:53:41 Found  worker-2 Online= True
+2026/02/06 13:53:42 Found  worker-6 Online= True
+2026/02/06 13:53:42 Found  worker-3 Online= True
+2026/02/06 13:53:51 Found  manager-0 Online= True
+2026/02/06 13:53:51 Found  worker-2 Online= True
+2026/02/06 13:53:51 Found  worker-6 Online= True
+2026/02/06 13:53:51 Found  worker-3 Online= True
+2026/02/06 13:53:51 Found  worker-4 Online= True
+2026/02/06 13:53:51 Found  worker-0 Online= True
+2026/02/06 13:53:51 Found  worker-5 Online= True
+2026/02/06 13:53:51 Found  worker-1 Online= True
+2026/02/06 13:54:01 Found  worker-0 Online= True
+2026/02/06 13:54:01 Found  worker-5 Online= True
+2026/02/06 13:54:01 Found  worker-1 Online= True
+2026/02/06 13:54:01 Found  manager-0 Online= True
+2026/02/06 13:54:01 Found  worker-2 Online= True
+2026/02/06 13:54:01 Found  worker-6 Online= True
+2026/02/06 13:54:01 Found  worker-3 Online= True
+2026/02/06 13:54:01 Found  worker-4 Online= True
+2026/02/06 13:54:11 Found  manager-0 Online= True
+2026/02/06 13:54:11 Found  worker-2 Online= True
+2026/02/06 13:54:11 Found  worker-6 Online= True
+2026/02/06 13:54:11 Found  worker-3 Online= True
+2026/02/06 13:54:11 Found  worker-4 Online= True
+2026/02/06 13:54:11 Found  worker-0 Online= True
+2026/02/06 13:54:11 Found  worker-5 Online= True
+2026/02/06 13:54:11 Found  worker-1 Online= True
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: worker-5
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: manager-0
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: worker-1
+Best value:  +5.000000e+002
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: worker-2
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: manager-0
+2026/02/06 13:54:21 Found  worker-0 Online= True
+2026/02/06 13:54:21 Found  worker-5 Online= True
+2026/02/06 13:54:21 Found  worker-1 Online= True
+2026/02/06 13:54:21 Found  manager-0 Online= True
+2026/02/06 13:54:21 Found  worker-2 Online= True
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-2
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-5
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+2026/02/06 13:54:21 Found  worker-6 Online= True
+2026/02/06 13:54:21 Found  worker-3 Online= True
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: worker-2
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: worker-1
+2026/02/06 13:54:21 Found  worker-4 Online= True
+Best value:  +1.500000e+003
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-1 but pod is assigned to node: manager-0
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: worker-2
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-5
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-1 but pod is assigned to node: manager-0
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-2
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: worker-1
+2026/02/06 13:54:21 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: worker-2
+Best value:  +1.500000e+003
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-2
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-5
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: manager-0
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-1 but pod is assigned to node: worker-2
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: manager-0
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-0
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+Best value:  +1.500000e+003
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-2
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: worker-0
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: manager-0
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-1 but pod is assigned to node: worker-2
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: worker-5
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: manager-0
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: worker-2
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-1
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+2026/02/06 13:54:26 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: manager-0
+2026/02/06 13:54:31 Found  manager-0 Online= True
+2026/02/06 13:54:31 Found  worker-2 Online= True
+2026/02/06 13:54:31 Found  worker-6 Online= True
+2026/02/06 13:54:31 Found  worker-3 Online= True
+2026/02/06 13:54:31 Found  worker-4 Online= True
+2026/02/06 13:54:31 Found  worker-0 Online= True
+2026/02/06 13:54:31 Found  worker-5 Online= True
+2026/02/06 13:54:31 Found  worker-1 Online= True
+Best value:  +1.500000e+003
+2026/02/06 13:54:35 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-5
+2026/02/06 13:54:35 INCONSISTENCE: Pod assigned to node: worker-1 but pod is assigned to node: manager-0
+2026/02/06 13:54:35 INCONSISTENCE: Pod assigned to node: worker-1 but pod is assigned to node: worker-2
+2026/02/06 13:54:35 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: worker-1
+2026/02/06 13:54:35 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+2026/02/06 13:54:35 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: manager-0
+2026/02/06 13:54:35 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: worker-5
+2026/02/06 13:54:35 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: worker-4
+2026/02/06 13:54:35 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-2
+2026/02/06 13:54:35 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-0
+2026/02/06 13:54:35 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: manager-0
+Best value:  +5.000000e+002
+2026/02/06 13:54:36 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: worker-0
+2026/02/06 13:54:36 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: worker-5
+2026/02/06 13:54:36 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: manager-0
+2026/02/06 13:54:36 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: worker-1
+2026/02/06 13:54:36 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: manager-0
+2026/02/06 13:54:36 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: manager-0
+2026/02/06 13:54:36 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: worker-5
+2026/02/06 13:54:36 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: worker-2
+2026/02/06 13:54:41 Found  manager-0 Online= True
+2026/02/06 13:54:41 Found  worker-2 Online= True
+2026/02/06 13:54:41 Found  worker-6 Online= True
+2026/02/06 13:54:41 Found  worker-3 Online= True
+2026/02/06 13:54:41 Found  worker-4 Online= True
+2026/02/06 13:54:41 Found  worker-0 Online= True
+2026/02/06 13:54:41 Found  worker-5 Online= True
+2026/02/06 13:54:41 Found  worker-1 Online= True
+2026/02/06 13:54:42 Found  worker-0 Online= True
+2026/02/06 13:54:42 Found  manager-0 Online= True
+2026/02/06 13:54:43 Found  worker-5 Online= True
+2026/02/06 13:54:43 Found  worker-1 Online= True
+2026/02/06 13:54:43 Found  worker-4 Online= True
+2026/02/06 13:54:43 Found  worker-2 Online= True
+2026/02/06 13:54:51 Found  worker-0 Online= True
+2026/02/06 13:54:51 Found  worker-5 Online= True
+2026/02/06 13:54:51 Found  worker-1 Online= True
+2026/02/06 13:54:51 Found  manager-0 Online= True
+2026/02/06 13:54:51 Found  worker-2 Online= True
+2026/02/06 13:54:51 Found  worker-6 Online= True
+2026/02/06 13:54:51 Found  worker-3 Online= True
+2026/02/06 13:54:51 Found  worker-4 Online= True
+2026/02/06 13:55:01 Found  manager-0 Online= True
+2026/02/06 13:55:01 Found  worker-2 Online= True
+2026/02/06 13:55:01 Found  worker-6 Online= True
+2026/02/06 13:55:01 Found  worker-3 Online= True
+2026/02/06 13:55:01 Found  worker-4 Online= True
+2026/02/06 13:55:01 Found  worker-0 Online= True
+2026/02/06 13:55:01 Found  worker-5 Online= True
+2026/02/06 13:55:01 Found  worker-1 Online= True
+2026/02/06 13:55:11 Found  manager-0 Online= True
+2026/02/06 13:55:11 Found  worker-2 Online= True
+2026/02/06 13:55:11 Found  worker-6 Online= True
+2026/02/06 13:55:11 Found  worker-3 Online= True
+2026/02/06 13:55:11 Found  worker-4 Online= True
+2026/02/06 13:55:11 Found  worker-0 Online= True
+2026/02/06 13:55:11 Found  worker-5 Online= True
+2026/02/06 13:55:11 Found  worker-1 Online= True
+2026/02/06 13:55:21 Found  worker-0 Online= True
+2026/02/06 13:55:21 Found  worker-5 Online= True
+2026/02/06 13:55:21 Found  worker-1 Online= True
+2026/02/06 13:55:21 Found  manager-0 Online= True
+2026/02/06 13:55:21 Found  worker-2 Online= True
+2026/02/06 13:55:21 Found  worker-6 Online= True
+2026/02/06 13:55:21 Found  worker-3 Online= True
+2026/02/06 13:55:21 Found  worker-4 Online= True
+2026/02/06 13:55:31 Found  worker-1 Online= True
+2026/02/06 13:55:31 Found  manager-0 Online= True
+2026/02/06 13:55:31 Found  worker-2 Online= True
+2026/02/06 13:55:31 Found  worker-6 Online= True
+2026/02/06 13:55:31 Found  worker-3 Online= True
+2026/02/06 13:55:31 Found  worker-4 Online= True
+2026/02/06 13:55:31 Found  worker-0 Online= True
+2026/02/06 13:55:31 Found  worker-5 Online= True
+2026/02/06 13:55:41 Found  manager-0 Online= True
+2026/02/06 13:55:41 Found  worker-2 Online= True
+2026/02/06 13:55:41 Found  worker-6 Online= True
+2026/02/06 13:55:41 Found  worker-3 Online= True
+2026/02/06 13:55:41 Found  worker-4 Online= True
+2026/02/06 13:55:41 Found  worker-0 Online= True
+2026/02/06 13:55:41 Found  worker-5 Online= True
+2026/02/06 13:55:41 Found  worker-1 Online= True
+2026/02/06 13:55:51 Found  worker-1 Online= True
+2026/02/06 13:55:51 Found  manager-0 Online= True
+2026/02/06 13:55:51 Found  worker-2 Online= True
+2026/02/06 13:55:51 Found  worker-6 Online= True
+2026/02/06 13:55:51 Found  worker-3 Online= True
+2026/02/06 13:55:51 Found  worker-4 Online= True
+2026/02/06 13:55:51 Found  worker-0 Online= True
+2026/02/06 13:55:51 Found  worker-5 Online= True
+2026/02/06 13:56:01 Found  worker-3 Online= True
+2026/02/06 13:56:01 Found  worker-4 Online= True
+2026/02/06 13:56:01 Found  worker-0 Online= True
+2026/02/06 13:56:01 Found  worker-5 Online= True
+2026/02/06 13:56:01 Found  worker-1 Online= True
+2026/02/06 13:56:01 Found  manager-0 Online= True
+2026/02/06 13:56:01 Found  worker-2 Online= True
+2026/02/06 13:56:01 Found  worker-6 Online= True
+2026/02/06 13:56:11 Found  worker-6 Online= True
+2026/02/06 13:56:11 Found  worker-3 Online= True
+2026/02/06 13:56:11 Found  worker-4 Online= True
+2026/02/06 13:56:11 Found  worker-0 Online= True
+2026/02/06 13:56:11 Found  worker-5 Online= True
+2026/02/06 13:56:11 Found  worker-1 Online= True
+2026/02/06 13:56:11 Found  manager-0 Online= True
+2026/02/06 13:56:11 Found  worker-2 Online= True
+2026/02/06 13:56:21 Found  manager-0 Online= True
+2026/02/06 13:56:21 Found  worker-2 Online= True
+2026/02/06 13:56:21 Found  worker-6 Online= True
+2026/02/06 13:56:21 Found  worker-3 Online= True
+2026/02/06 13:56:21 Found  worker-4 Online= True
+2026/02/06 13:56:21 Found  worker-0 Online= True
+2026/02/06 13:56:21 Found  worker-5 Online= True
+2026/02/06 13:56:21 Found  worker-1 Online= True
+2026/02/06 13:56:31 Found  worker-0 Online= True
+2026/02/06 13:56:31 Found  worker-5 Online= True
+2026/02/06 13:56:31 Found  worker-1 Online= True
+2026/02/06 13:56:31 Found  manager-0 Online= True
+2026/02/06 13:56:31 Found  worker-2 Online= True
+2026/02/06 13:56:31 Found  worker-6 Online= True
+2026/02/06 13:56:31 Found  worker-3 Online= True
+2026/02/06 13:56:31 Found  worker-4 Online= True
+2026/02/06 13:56:41 Found  manager-0 Online= True
+2026/02/06 13:56:41 Found  worker-2 Online= True
+2026/02/06 13:56:41 Found  worker-6 Online= True
+2026/02/06 13:56:41 Found  worker-3 Online= True
+2026/02/06 13:56:41 Found  worker-4 Online= True
+2026/02/06 13:56:41 Found  worker-0 Online= True
+2026/02/06 13:56:41 Found  worker-5 Online= True
+2026/02/06 13:56:41 Found  worker-1 Online= True
+2026/02/06 13:56:51 Found  worker-0 Online= True
+2026/02/06 13:56:51 Found  worker-5 Online= True
+2026/02/06 13:56:51 Found  worker-1 Online= True
+2026/02/06 13:56:51 Found  manager-0 Online= True
+2026/02/06 13:56:51 Found  worker-2 Online= True
+2026/02/06 13:56:51 Found  worker-6 Online= True
+2026/02/06 13:56:51 Found  worker-3 Online= True
+2026/02/06 13:56:51 Found  worker-4 Online= True
+2026/02/06 13:57:01 Found  manager-0 Online= True
+2026/02/06 13:57:01 Found  worker-2 Online= True
+2026/02/06 13:57:01 Found  worker-6 Online= True
+2026/02/06 13:57:01 Found  worker-3 Online= True
+2026/02/06 13:57:01 Found  worker-4 Online= True
+2026/02/06 13:57:01 Found  worker-0 Online= True
+2026/02/06 13:57:01 Found  worker-5 Online= True
+2026/02/06 13:57:01 Found  worker-1 Online= True
+2026/02/06 13:57:11 Found  worker-3 Online= True
+2026/02/06 13:57:11 Found  worker-4 Online= True
+2026/02/06 13:57:11 Found  worker-0 Online= True
+2026/02/06 13:57:11 Found  worker-5 Online= True
+2026/02/06 13:57:11 Found  worker-1 Online= True
+2026/02/06 13:57:11 Found  manager-0 Online= True
+2026/02/06 13:57:11 Found  worker-2 Online= True
+2026/02/06 13:57:11 Found  worker-6 Online= True
+2026/02/06 13:57:21 Found  manager-0 Online= True
+2026/02/06 13:57:21 Found  worker-2 Online= True
+2026/02/06 13:57:21 Found  worker-6 Online= True
+2026/02/06 13:57:21 Found  worker-3 Online= True
+2026/02/06 13:57:21 Found  worker-4 Online= True
+2026/02/06 13:57:21 Found  worker-0 Online= True
+2026/02/06 13:57:21 Found  worker-5 Online= True
+2026/02/06 13:57:21 Found  worker-1 Online= True
+2026/02/06 13:57:30 Found  worker-1 Online= Unknown
+2026/02/06 13:57:30 Found  worker-1 Online= Unknown
+Best value:  +2.000000e+003
+2026/02/06 13:57:30 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-0
+2026/02/06 13:57:30 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-5
+2026/02/06 13:57:30 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+2026/02/06 13:57:30 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-5
+2026/02/06 13:57:30 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+2026/02/06 13:57:30 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-2
+2026/02/06 13:57:30 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: manager-0
+2026/02/06 13:57:30 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: worker-5
+Best value:  +1.500000e+003
+2026/02/06 13:57:31 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-0
+2026/02/06 13:57:31 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: worker-5
+2026/02/06 13:57:31 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+2026/02/06 13:57:31 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: worker-2
+2026/02/06 13:57:31 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-5
+2026/02/06 13:57:31 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+2026/02/06 13:57:31 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-2
+2026/02/06 13:57:31 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: manager-0
+2026/02/06 13:57:31 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: manager-0
+2026/02/06 13:57:31 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-5
+2026/02/06 13:57:31 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-4
+2026/02/06 13:57:31 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: worker-2
+2026/02/06 13:57:31 Found  worker-0 Online= True
+2026/02/06 13:57:31 Found  worker-5 Online= True
+2026/02/06 13:57:31 Found  worker-1 Online= Unknown
+2026/02/06 13:57:31 Found  manager-0 Online= True
+2026/02/06 13:57:31 Found  worker-2 Online= True
+2026/02/06 13:57:31 Found  worker-6 Online= True
+2026/02/06 13:57:31 Found  worker-3 Online= True
+2026/02/06 13:57:31 Found  worker-4 Online= True
+2026/02/06 13:57:35 Found  worker-1 Online= Unknown
+Best value:  +2.000000e+003
+2026/02/06 13:57:39 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: worker-5
+2026/02/06 13:57:39 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+2026/02/06 13:57:39 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-2
+2026/02/06 13:57:39 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: manager-0
+2026/02/06 13:57:39 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: manager-0
+2026/02/06 13:57:39 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+2026/02/06 13:57:39 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-5
+2026/02/06 13:57:39 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: manager-0
+2026/02/06 13:57:39 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-2
+2026/02/06 13:57:39 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-3
+Best value:  +3.500000e+003
+2026/02/06 13:57:40 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: manager-0
+2026/02/06 13:57:40 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: worker-5
+2026/02/06 13:57:40 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: worker-4
+2026/02/06 13:57:40 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: manager-0
+2026/02/06 13:57:40 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-2
+2026/02/06 13:57:40 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-0
+2026/02/06 13:57:40 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-5
+2026/02/06 13:57:40 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: manager-0
+2026/02/06 13:57:40 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-2
+2026/02/06 13:57:40 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: worker-5
+2026/02/06 13:57:41 Found  manager-0 Online= True
+2026/02/06 13:57:41 Found  worker-2 Online= True
+2026/02/06 13:57:41 Found  worker-6 Online= True
+2026/02/06 13:57:41 Found  worker-3 Online= True
+2026/02/06 13:57:41 Found  worker-4 Online= True
+2026/02/06 13:57:41 Found  worker-0 Online= True
+2026/02/06 13:57:41 Found  worker-5 Online= True
+2026/02/06 13:57:41 Found  worker-1 Online= Unknown
+2026/02/06 13:57:45 Found  worker-1 Online= True
+2026/02/06 13:57:45 Found  worker-1 Online= True
+2026/02/06 13:57:46 Found  worker-3 Online= True
+Pod deleted: app-2-client-67685db6f8-98dcn
+Pod deleted: app-5-client-54f44d9654-6wh7x
+2026/02/06 13:57:50 Found  worker-1 Online= True
+2026/02/06 13:57:51 Found  worker-4 Online= True
+2026/02/06 13:57:51 Found  worker-0 Online= True
+2026/02/06 13:57:51 Found  worker-5 Online= True
+2026/02/06 13:57:51 Found  worker-1 Online= True
+2026/02/06 13:57:51 Found  manager-0 Online= True
+2026/02/06 13:57:51 Found  worker-2 Online= True
+2026/02/06 13:57:51 Found  worker-6 Online= True
+2026/02/06 13:57:51 Found  worker-3 Online= True
+2026/02/06 13:58:01 Found  worker-2 Online= True
+2026/02/06 13:58:01 Found  worker-6 Online= True
+2026/02/06 13:58:01 Found  worker-3 Online= True
+2026/02/06 13:58:01 Found  worker-4 Online= True
+2026/02/06 13:58:01 Found  worker-0 Online= True
+2026/02/06 13:58:01 Found  worker-5 Online= True
+2026/02/06 13:58:01 Found  worker-1 Online= True
+2026/02/06 13:58:01 Found  manager-0 Online= True
+Pod deleted: app-1-server-786778cc75-xzl5s
+Pod deleted: app-1-client-84dbc76f66-rq9mw
+2026/02/06 13:58:11 Found  manager-0 Online= True
+2026/02/06 13:58:11 Found  worker-2 Online= True
+2026/02/06 13:58:11 Found  worker-6 Online= True
+2026/02/06 13:58:11 Found  worker-3 Online= True
+2026/02/06 13:58:11 Found  worker-4 Online= True
+2026/02/06 13:58:11 Found  worker-0 Online= True
+2026/02/06 13:58:11 Found  worker-5 Online= True
+2026/02/06 13:58:11 Found  worker-1 Online= True
+2026/02/06 13:58:17 Found  worker-0 Online= True
+2026/02/06 13:58:21 Found  manager-0 Online= True
+2026/02/06 13:58:21 Found  worker-2 Online= True
+2026/02/06 13:58:21 Found  worker-6 Online= True
+2026/02/06 13:58:21 Found  worker-3 Online= True
+2026/02/06 13:58:21 Found  worker-4 Online= True
+2026/02/06 13:58:21 Found  worker-0 Online= True
+2026/02/06 13:58:21 Found  worker-5 Online= True
+2026/02/06 13:58:21 Found  worker-1 Online= True
+2026/02/06 13:58:31 Found  worker-0 Online= True
+2026/02/06 13:58:31 Found  worker-5 Online= True
+2026/02/06 13:58:31 Found  worker-1 Online= True
+2026/02/06 13:58:31 Found  manager-0 Online= True
+2026/02/06 13:58:31 Found  worker-2 Online= True
+2026/02/06 13:58:31 Found  worker-6 Online= True
+2026/02/06 13:58:31 Found  worker-3 Online= True
+2026/02/06 13:58:31 Found  worker-4 Online= True
+2026/02/06 13:58:41 Found  worker-4 Online= True
+2026/02/06 13:58:41 Found  worker-0 Online= True
+2026/02/06 13:58:41 Found  worker-5 Online= True
+2026/02/06 13:58:41 Found  worker-1 Online= True
+2026/02/06 13:58:41 Found  manager-0 Online= True
+2026/02/06 13:58:41 Found  worker-2 Online= True
+2026/02/06 13:58:41 Found  worker-6 Online= True
+2026/02/06 13:58:41 Found  worker-3 Online= True
+2026/02/06 13:58:47 Found  worker-6 Online= True
+2026/02/06 13:58:51 Found  worker-2 Online= True
+2026/02/06 13:58:51 Found  worker-6 Online= True
+2026/02/06 13:58:51 Found  worker-3 Online= True
+2026/02/06 13:58:51 Found  worker-4 Online= True
+2026/02/06 13:58:51 Found  worker-0 Online= True
+2026/02/06 13:58:51 Found  worker-5 Online= True
+2026/02/06 13:58:51 Found  worker-1 Online= True
+2026/02/06 13:58:51 Found  manager-0 Online= True
+2026/02/06 13:59:01 Found  worker-0 Online= True
+2026/02/06 13:59:01 Found  worker-5 Online= True
+2026/02/06 13:59:01 Found  worker-1 Online= True
+2026/02/06 13:59:01 Found  manager-0 Online= True
+2026/02/06 13:59:01 Found  worker-2 Online= True
+2026/02/06 13:59:01 Found  worker-6 Online= True
+2026/02/06 13:59:01 Found  worker-3 Online= True
+2026/02/06 13:59:01 Found  worker-4 Online= True
+2026/02/06 13:59:11 Found  worker-5 Online= True
+2026/02/06 13:59:11 Found  worker-1 Online= True
+2026/02/06 13:59:11 Found  manager-0 Online= True
+2026/02/06 13:59:11 Found  worker-2 Online= True
+2026/02/06 13:59:11 Found  worker-6 Online= True
+2026/02/06 13:59:11 Found  worker-3 Online= True
+2026/02/06 13:59:11 Found  worker-4 Online= True
+2026/02/06 13:59:11 Found  worker-0 Online= True
+2026/02/06 13:59:21 Found  manager-0 Online= True
+2026/02/06 13:59:21 Found  worker-2 Online= True
+2026/02/06 13:59:21 Found  worker-6 Online= True
+2026/02/06 13:59:21 Found  worker-3 Online= True
+2026/02/06 13:59:21 Found  worker-4 Online= True
+2026/02/06 13:59:21 Found  worker-0 Online= True
+2026/02/06 13:59:21 Found  worker-5 Online= True
+2026/02/06 13:59:21 Found  worker-1 Online= True
+2026/02/06 13:59:31 Found  worker-5 Online= True
+2026/02/06 13:59:31 Found  worker-1 Online= True
+2026/02/06 13:59:31 Found  manager-0 Online= True
+2026/02/06 13:59:31 Found  worker-2 Online= True
+2026/02/06 13:59:31 Found  worker-6 Online= True
+2026/02/06 13:59:31 Found  worker-3 Online= True
+2026/02/06 13:59:31 Found  worker-4 Online= True
+2026/02/06 13:59:31 Found  worker-0 Online= True
+2026/02/06 13:59:41 Found  worker-5 Online= True
+2026/02/06 13:59:41 Found  worker-1 Online= True
+2026/02/06 13:59:41 Found  manager-0 Online= True
+2026/02/06 13:59:41 Found  worker-2 Online= True
+2026/02/06 13:59:41 Found  worker-6 Online= True
+2026/02/06 13:59:41 Found  worker-3 Online= True
+2026/02/06 13:59:41 Found  worker-4 Online= True
+2026/02/06 13:59:41 Found  worker-0 Online= True
+2026/02/06 13:59:48 Found  worker-5 Online= True
+2026/02/06 13:59:49 Found  manager-0 Online= True
+2026/02/06 13:59:49 Found  worker-4 Online= True
+2026/02/06 13:59:50 Found  worker-2 Online= True
+2026/02/06 13:59:51 Found  worker-2 Online= True
+2026/02/06 13:59:51 Found  worker-6 Online= True
+2026/02/06 13:59:51 Found  worker-3 Online= True
+2026/02/06 13:59:51 Found  worker-4 Online= True
+2026/02/06 13:59:51 Found  worker-0 Online= True
+2026/02/06 13:59:51 Found  worker-5 Online= True
+2026/02/06 13:59:51 Found  worker-1 Online= True
+2026/02/06 13:59:51 Found  manager-0 Online= True
+2026/02/06 14:00:01 Found  worker-0 Online= True
+2026/02/06 14:00:01 Found  worker-5 Online= True
+2026/02/06 14:00:01 Found  worker-1 Online= True
+2026/02/06 14:00:01 Found  manager-0 Online= True
+2026/02/06 14:00:01 Found  worker-2 Online= True
+2026/02/06 14:00:01 Found  worker-6 Online= True
+2026/02/06 14:00:01 Found  worker-3 Online= True
+2026/02/06 14:00:01 Found  worker-4 Online= True
+2026/02/06 14:00:11 Found  worker-3 Online= True
+2026/02/06 14:00:11 Found  worker-4 Online= True
+2026/02/06 14:00:11 Found  worker-0 Online= True
+2026/02/06 14:00:11 Found  worker-5 Online= True
+2026/02/06 14:00:11 Found  worker-1 Online= True
+2026/02/06 14:00:11 Found  manager-0 Online= True
+2026/02/06 14:00:11 Found  worker-2 Online= True
+2026/02/06 14:00:11 Found  worker-6 Online= True
+2026/02/06 14:00:21 Found  manager-0 Online= True
+2026/02/06 14:00:21 Found  worker-2 Online= True
+2026/02/06 14:00:21 Found  worker-6 Online= True
+2026/02/06 14:00:21 Found  worker-3 Online= True
+2026/02/06 14:00:21 Found  worker-4 Online= True
+2026/02/06 14:00:21 Found  worker-0 Online= True
+2026/02/06 14:00:21 Found  worker-5 Online= True
+2026/02/06 14:00:21 Found  worker-1 Online= True
+2026/02/06 14:00:30 Found  worker-1 Online= Unknown
+2026/02/06 14:00:30 Found  worker-1 Online= Unknown
+2026/02/06 14:00:31 Found  worker-4 Online= True
+2026/02/06 14:00:31 Found  worker-0 Online= True
+2026/02/06 14:00:31 Found  worker-5 Online= True
+2026/02/06 14:00:31 Found  worker-1 Online= Unknown
+2026/02/06 14:00:31 Found  manager-0 Online= True
+2026/02/06 14:00:31 Found  worker-2 Online= True
+2026/02/06 14:00:31 Found  worker-6 Online= True
+2026/02/06 14:00:31 Found  worker-3 Online= True
+2026/02/06 14:00:35 Found  worker-1 Online= Unknown
+Best value:  +3.000000e+003
+2026/02/06 14:00:39 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: manager-0
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: worker-5
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: manager-0
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-2
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-0
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: manager-0
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-5
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-4
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: manager-0
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-3
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: worker-0
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: worker-5
+Best value:  +3.000000e+003
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-6 but pod is assigned to node: worker-4
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: manager-0
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-3
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: worker-0
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: worker-5
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: worker-2
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: manager-0
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: worker-5
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: manager-0
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-2
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-0
+2026/02/06 14:00:40 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: manager-0
+2026/02/06 14:00:41 Found  worker-1 Online= Unknown
+2026/02/06 14:00:41 Found  manager-0 Online= True
+2026/02/06 14:00:41 Found  worker-2 Online= True
+2026/02/06 14:00:41 Found  worker-6 Online= True
+2026/02/06 14:00:41 Found  worker-3 Online= True
+2026/02/06 14:00:41 Found  worker-4 Online= True
+2026/02/06 14:00:41 Found  worker-0 Online= True
+2026/02/06 14:00:41 Found  worker-5 Online= True
+2026/02/06 14:00:43 Found  worker-1 Online= True
+2026/02/06 14:00:43 Found  worker-1 Online= True
+2026/02/06 14:00:44 Found  worker-1 Online= True
+2026/02/06 14:00:45 Found  worker-1 Online= True
+2026/02/06 14:00:51 Found  worker-5 Online= True
+2026/02/06 14:00:51 Found  worker-1 Online= True
+2026/02/06 14:00:51 Found  manager-0 Online= True
+2026/02/06 14:00:51 Found  worker-2 Online= True
+2026/02/06 14:00:51 Found  worker-6 Online= True
+2026/02/06 14:00:51 Found  worker-3 Online= True
+2026/02/06 14:00:51 Found  worker-4 Online= True
+2026/02/06 14:00:51 Found  worker-0 Online= True
+2026/02/06 14:01:01 Found  worker-0 Online= True
+2026/02/06 14:01:01 Found  worker-5 Online= True
+2026/02/06 14:01:01 Found  worker-1 Online= True
+2026/02/06 14:01:01 Found  manager-0 Online= True
+2026/02/06 14:01:01 Found  worker-2 Online= True
+2026/02/06 14:01:01 Found  worker-6 Online= True
+2026/02/06 14:01:01 Found  worker-3 Online= True
+2026/02/06 14:01:01 Found  worker-4 Online= True
+Pod deleted: app-2-client-67685db6f8-6tccd
+2026/02/06 14:01:11 Found  worker-4 Online= True
+2026/02/06 14:01:11 Found  worker-0 Online= True
+2026/02/06 14:01:11 Found  worker-5 Online= True
+2026/02/06 14:01:11 Found  worker-1 Online= True
+2026/02/06 14:01:11 Found  manager-0 Online= True
+2026/02/06 14:01:11 Found  worker-2 Online= True
+2026/02/06 14:01:11 Found  worker-6 Online= True
+2026/02/06 14:01:11 Found  worker-3 Online= True
+2026/02/06 14:01:11 Found  worker-4 Online= True
+Pod deleted: app-2-server-f6ddd9677-q95sj
+2026/02/06 14:01:21 Found  worker-0 Online= True
+2026/02/06 14:01:21 Found  worker-5 Online= True
+2026/02/06 14:01:21 Found  worker-1 Online= True
+2026/02/06 14:01:21 Found  manager-0 Online= True
+2026/02/06 14:01:21 Found  worker-2 Online= True
+2026/02/06 14:01:21 Found  worker-6 Online= True
+2026/02/06 14:01:21 Found  worker-3 Online= True
+2026/02/06 14:01:21 Found  worker-4 Online= True
+2026/02/06 14:01:31 Found  manager-0 Online= True
+2026/02/06 14:01:31 Found  worker-2 Online= True
+2026/02/06 14:01:31 Found  worker-6 Online= True
+2026/02/06 14:01:31 Found  worker-3 Online= True
+2026/02/06 14:01:31 Found  worker-4 Online= True
+2026/02/06 14:01:31 Found  worker-0 Online= True
+2026/02/06 14:01:31 Found  worker-5 Online= True
+2026/02/06 14:01:31 Found  worker-1 Online= True
+2026/02/06 14:01:41 Found  worker-4 Online= True
+2026/02/06 14:01:41 Found  worker-0 Online= True
+2026/02/06 14:01:41 Found  worker-5 Online= True
+2026/02/06 14:01:41 Found  worker-1 Online= True
+2026/02/06 14:01:41 Found  manager-0 Online= True
+2026/02/06 14:01:41 Found  worker-2 Online= True
+2026/02/06 14:01:41 Found  worker-6 Online= True
+2026/02/06 14:01:41 Found  worker-3 Online= True
+2026/02/06 14:01:51 Found  worker-0 Online= True
+2026/02/06 14:01:51 Found  worker-5 Online= True
+2026/02/06 14:01:51 Found  worker-1 Online= True
+2026/02/06 14:01:51 Found  manager-0 Online= True
+2026/02/06 14:01:51 Found  worker-2 Online= True
+2026/02/06 14:01:51 Found  worker-6 Online= True
+2026/02/06 14:01:51 Found  worker-3 Online= True
+2026/02/06 14:01:51 Found  worker-4 Online= True
+2026/02/06 14:02:01 Found  manager-0 Online= True
+2026/02/06 14:02:01 Found  worker-2 Online= True
+2026/02/06 14:02:01 Found  worker-6 Online= True
+2026/02/06 14:02:01 Found  worker-3 Online= True
+2026/02/06 14:02:01 Found  worker-4 Online= True
+2026/02/06 14:02:01 Found  worker-0 Online= True
+2026/02/06 14:02:01 Found  worker-5 Online= True
+2026/02/06 14:02:01 Found  worker-1 Online= True
+2026/02/06 14:02:11 Found  worker-1 Online= True
+2026/02/06 14:02:11 Found  manager-0 Online= True
+2026/02/06 14:02:11 Found  worker-2 Online= True
+2026/02/06 14:02:11 Found  worker-6 Online= True
+2026/02/06 14:02:11 Found  worker-3 Online= True
+2026/02/06 14:02:11 Found  worker-4 Online= True
+2026/02/06 14:02:11 Found  worker-0 Online= True
+2026/02/06 14:02:11 Found  worker-5 Online= True
+2026/02/06 14:02:21 Found  manager-0 Online= True
+2026/02/06 14:02:21 Found  worker-2 Online= True
+2026/02/06 14:02:21 Found  worker-6 Online= True
+2026/02/06 14:02:21 Found  worker-3 Online= True
+2026/02/06 14:02:21 Found  worker-4 Online= True
+2026/02/06 14:02:21 Found  worker-0 Online= True
+2026/02/06 14:02:21 Found  worker-5 Online= True
+2026/02/06 14:02:21 Found  worker-1 Online= True
+2026/02/06 14:02:31 Found  manager-0 Online= True
+2026/02/06 14:02:31 Found  worker-2 Online= True
+2026/02/06 14:02:31 Found  worker-6 Online= True
+2026/02/06 14:02:31 Found  worker-3 Online= True
+2026/02/06 14:02:31 Found  worker-4 Online= True
+2026/02/06 14:02:31 Found  worker-0 Online= True
+2026/02/06 14:02:31 Found  worker-5 Online= True
+2026/02/06 14:02:31 Found  worker-1 Online= True
+2026/02/06 14:02:41 Found  manager-0 Online= True
+2026/02/06 14:02:41 Found  worker-2 Online= True
+2026/02/06 14:02:41 Found  worker-6 Online= True
+2026/02/06 14:02:41 Found  worker-3 Online= True
+2026/02/06 14:02:41 Found  worker-4 Online= True
+2026/02/06 14:02:41 Found  worker-0 Online= True
+2026/02/06 14:02:41 Found  worker-5 Online= True
+2026/02/06 14:02:41 Found  worker-1 Online= True
+2026/02/06 14:02:51 Found  worker-4 Online= True
+2026/02/06 14:02:51 Found  worker-0 Online= True
+2026/02/06 14:02:51 Found  worker-5 Online= True
+2026/02/06 14:02:51 Found  worker-1 Online= True
+2026/02/06 14:02:51 Found  manager-0 Online= True
+2026/02/06 14:02:51 Found  worker-2 Online= True
+2026/02/06 14:02:51 Found  worker-6 Online= True
+2026/02/06 14:02:51 Found  worker-3 Online= True
+2026/02/06 14:02:52 Found  worker-3 Online= True
+2026/02/06 14:03:01 Found  worker-5 Online= True
+2026/02/06 14:03:01 Found  worker-1 Online= True
+2026/02/06 14:03:01 Found  manager-0 Online= True
+2026/02/06 14:03:01 Found  worker-2 Online= True
+2026/02/06 14:03:01 Found  worker-6 Online= True
+2026/02/06 14:03:01 Found  worker-3 Online= True
+2026/02/06 14:03:01 Found  worker-4 Online= True
+2026/02/06 14:03:01 Found  worker-0 Online= True
+2026/02/06 14:03:11 Found  manager-0 Online= True
+2026/02/06 14:03:11 Found  worker-2 Online= True
+2026/02/06 14:03:11 Found  worker-6 Online= True
+2026/02/06 14:03:11 Found  worker-3 Online= True
+2026/02/06 14:03:11 Found  worker-4 Online= True
+2026/02/06 14:03:11 Found  worker-0 Online= True
+2026/02/06 14:03:11 Found  worker-5 Online= True
+2026/02/06 14:03:11 Found  worker-1 Online= True
+2026/02/06 14:03:21 Found  worker-0 Online= True
+2026/02/06 14:03:21 Found  worker-5 Online= True
+2026/02/06 14:03:21 Found  worker-1 Online= True
+2026/02/06 14:03:21 Found  manager-0 Online= True
+2026/02/06 14:03:21 Found  worker-2 Online= True
+2026/02/06 14:03:21 Found  worker-6 Online= True
+2026/02/06 14:03:21 Found  worker-3 Online= True
+2026/02/06 14:03:21 Found  worker-4 Online= True
+2026/02/06 14:03:23 Found  worker-0 Online= True
+2026/02/06 14:03:30 Found  worker-1 Online= Unknown
+2026/02/06 14:03:30 Found  worker-1 Online= Unknown
+2026/02/06 14:03:31 Found  worker-3 Online= True
+2026/02/06 14:03:31 Found  worker-4 Online= True
+2026/02/06 14:03:31 Found  worker-0 Online= True
+2026/02/06 14:03:31 Found  worker-5 Online= True
+2026/02/06 14:03:31 Found  worker-1 Online= Unknown
+2026/02/06 14:03:31 Found  manager-0 Online= True
+2026/02/06 14:03:31 Found  worker-2 Online= True
+2026/02/06 14:03:31 Found  worker-6 Online= True
+2026/02/06 14:03:35 Found  worker-1 Online= Unknown
+Best value:  +2.500000e+003
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: worker-0
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: worker-2
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: worker-5
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: manager-0
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: worker-4
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: manager-0
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: worker-4
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: worker-4
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-0
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-2
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: manager-0
+2026/02/06 14:03:39 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: manager-0
+Best value:  +3.000000e+003
+2026/02/06 14:03:40 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-0
+2026/02/06 14:03:40 INCONSISTENCE: Pod assigned to node: worker-0 but pod is assigned to node: worker-5
+2026/02/06 14:03:40 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-2
+2026/02/06 14:03:40 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: manager-0
+2026/02/06 14:03:40 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: worker-0
+2026/02/06 14:03:40 INCONSISTENCE: Pod assigned to node: worker-5 but pod is assigned to node: manager-0
+2026/02/06 14:03:40 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-2
+2026/02/06 14:03:40 INCONSISTENCE: Pod assigned to node: worker-4 but pod is assigned to node: worker-5
+2026/02/06 14:03:40 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: manager-0
+2026/02/06 14:03:40 INCONSISTENCE: Pod assigned to node: worker-2 but pod is assigned to node: worker-4
+2026/02/06 14:03:40 INCONSISTENCE: Pod assigned to node: worker-3 but pod is assigned to node: manager-0
+2026/02/06 14:03:40 INCONSISTENCE: Pod assigned to node: manager-0 but pod is assigned to node: worker-4
+2026/02/06 14:03:41 Found  worker-2 Online= True
+2026/02/06 14:03:41 Found  worker-6 Online= True
+2026/02/06 14:03:41 Found  worker-3 Online= True
+2026/02/06 14:03:41 Found  worker-4 Online= True
+2026/02/06 14:03:41 Found  worker-0 Online= True
+2026/02/06 14:03:41 Found  worker-5 Online= True
+2026/02/06 14:03:41 Found  worker-1 Online= Unknown
+2026/02/06 14:03:41 Found  manager-0 Online= True
+2026/02/06 14:03:44 Found  worker-1 Online= True
+2026/02/06 14:03:44 Found  worker-1 Online= True
+2026/02/06 14:03:44 Found  worker-1 Online= True
+2026/02/06 14:03:45 Found  worker-1 Online= True
+2026/02/06 14:03:51 Found  worker-0 Online= True
+2026/02/06 14:03:51 Found  worker-5 Online= True
+2026/02/06 14:03:51 Found  worker-1 Online= True
+2026/02/06 14:03:51 Found  manager-0 Online= True
+2026/02/06 14:03:51 Found  worker-2 Online= True
+2026/02/06 14:03:51 Found  worker-6 Online= True
+2026/02/06 14:03:51 Found  worker-3 Online= True
+2026/02/06 14:03:51 Found  worker-4 Online= True
+2026/02/06 14:03:54 Found  worker-6 Online= True
+2026/02/06 14:04:01 Found  manager-0 Online= True
+2026/02/06 14:04:01 Found  worker-2 Online= True
+2026/02/06 14:04:01 Found  worker-6 Online= True
+2026/02/06 14:04:01 Found  worker-3 Online= True
+2026/02/06 14:04:01 Found  worker-4 Online= True
+2026/02/06 14:04:01 Found  worker-0 Online= True
+2026/02/06 14:04:01 Found  worker-5 Online= True
+2026/02/06 14:04:01 Found  worker-1 Online= True
+Pod deleted: app-4-client-5b76ff5b7d-sdwlv
+2026/02/06 14:04:11 Found  manager-0 Online= True
+2026/02/06 14:04:11 Found  worker-2 Online= True
+2026/02/06 14:04:11 Found  worker-6 Online= True
+2026/02/06 14:04:11 Found  worker-3 Online= True
+2026/02/06 14:04:11 Found  worker-4 Online= True
+2026/02/06 14:04:11 Found  worker-0 Online= True
+2026/02/06 14:04:11 Found  worker-5 Online= True
+2026/02/06 14:04:11 Found  worker-1 Online= True
+2026/02/06 14:04:14 Found  worker-3 Online= True
+2026/02/06 14:04:14 Found  worker-6 Online= True
+Pod deleted: app-4-server-5f5cbccc6f-npfpl
+2026/02/06 14:04:21 Found  worker-6 Online= True
+2026/02/06 14:04:21 Found  worker-3 Online= True
+2026/02/06 14:04:21 Found  worker-4 Online= True
+2026/02/06 14:04:21 Found  worker-0 Online= True
+2026/02/06 14:04:21 Found  worker-5 Online= True
+2026/02/06 14:04:21 Found  worker-1 Online= True
+2026/02/06 14:04:21 Found  manager-0 Online= True
+2026/02/06 14:04:21 Found  worker-2 Online= True
+2026/02/06 14:04:31 Found  worker-0 Online= True
+2026/02/06 14:04:31 Found  worker-5 Online= True
+2026/02/06 14:04:31 Found  worker-1 Online= True
+2026/02/06 14:04:31 Found  manager-0 Online= True
+2026/02/06 14:04:31 Found  worker-2 Online= True
+2026/02/06 14:04:31 Found  worker-6 Online= True
+2026/02/06 14:04:31 Found  worker-3 Online= True
+2026/02/06 14:04:31 Found  worker-4 Online= True
