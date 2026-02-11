@@ -28,11 +28,18 @@ def parse_log(log: str):
 
         # throughput: iperf sender summary only
         thr_match = re.search(
-            r"\[\s*\d+\]\s+0\.00-10\.00\s+sec\s+[\d.]+\s+MBytes\s+([\d.]+)\s+Mbits/sec\s+\d+\s+sender",
+            r"\.*(\d+\.?\d+)\s+([KM]bits)\/sec\s+receiver",
             block,
         )
         if thr_match:
-            throughput[ts] = float(thr_match.group(1))
+            if thr_match.group(2) == "Kbits":
+                throughput[ts] = float(thr_match.group(1))
+            elif thr_match.group(2) == "Mbits":
+                throughput[ts] = float(thr_match.group(1)) * 1024
+            else:
+                print(
+                    f"Found unkown uni while parsing throughput: {thr_match.group(2)}"
+                )
 
         # latency: average RTT from hping results
         rtts = [float(x) for x in re.findall(r"rtt=([\d.]+)\s*ms", block)]
@@ -100,7 +107,7 @@ end_time = datetime.datetime.fromtimestamp(end_time)
 print(f"start time: {start_time}")
 print(f"end time: {end_time}")
 
-print("structured data: " + str(structured_data))
+# print("structured data: " + str(structured_data))
 machines = list(structured_data.keys())
 fig, axes = plt.subplots(len(machines), 1, sharex=True, figsize=(12, 4 * len(machines)))
 COLORS = [
@@ -159,7 +166,8 @@ for ax, machine in zip(axes, machines):
     ax.set_ylabel("Latency (ms)")
     ax.set_ylim(1, max_rtt)
     ax.set_yscale("log")
-    ax2.set_ylabel("Throughput (Mbit/s)")
+    ax2.set_ylabel("Throughput (Kbit/s)")
+    ax2.set_ylim(0, 1100)
     ax.set_title(machine)
     ax.grid(True, which="both", linestyle="--", linewidth=0.5, alpha=0.5)
     ax2.grid(False)
