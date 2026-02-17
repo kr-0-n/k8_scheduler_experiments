@@ -1,4 +1,4 @@
-# Experiment 2
+# Experiment 3
 
 The third experiment is similar to the second but tries a more realistic scenario. We are now using two TETRA cells with TEDS installed. We assume ultrawide channels of 150khz with a perfect 500kbps throughput.
 
