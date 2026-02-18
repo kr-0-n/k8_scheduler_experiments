@@ -1,0 +1,481 @@
+TIME: 1771342058
+Connecting to host app-2-server, port 5004
+[  5] local 10.42.3.3 port 50212 connected to 10.43.10.32 port 5004
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   27.3 KBytes       
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec    0   30.0 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    0   32.8 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   36.9 KBytes       
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    0   38.2 KBytes       
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec    0   53.2 KBytes       
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec    0   68.3 KBytes       
+[  5]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec    0   90.1 KBytes       
+[  5]   8.00-9.00   sec   256 KBytes  2.10 Mbits/sec    0    124 KBytes       
+[  5]   9.00-10.00  sec   384 KBytes  3.15 Mbits/sec    0    141 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.00 MBytes   839 Kbits/sec    0             sender
+[  5]   0.00-12.66  sec   384 KBytes   248 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=127.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=646.9 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=662.6 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=734.3 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=838.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=1125.7 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1461.5 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=2469.5 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=2029.2 ms
+TIME: 1771342096
+Connecting to host app-2-server, port 5004
+[  5] local 10.42.3.3 port 53104 connected to 10.43.10.32 port 5004
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   35.5 KBytes       
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec    0   39.6 KBytes       
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec    0   47.8 KBytes       
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec    0   65.5 KBytes       
+[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec    0   87.4 KBytes       
+[  5]   6.00-7.00   sec   256 KBytes  2.10 Mbits/sec    0    105 KBytes       
+[  5]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec    0    131 KBytes       
+[  5]   8.00-9.00   sec   384 KBytes  3.15 Mbits/sec    0    145 KBytes       
+[  5]   9.00-10.00  sec  0.00 Bytes  0.00 bits/sec    0    164 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.12 MBytes   944 Kbits/sec    0             sender
+[  5]   0.00-14.02  sec   512 KBytes   299 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=12.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=459.9 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=485.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=550.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=669.8 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=949.6 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=1981.6 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1365.4 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=2389.4 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1853.3 ms
+TIME: 1771342142
+Connecting to host app-2-server, port 5004
+[  5] local 10.42.3.3 port 39260 connected to 10.43.10.32 port 5004
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   34.1 KBytes       
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec    0   36.9 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   45.1 KBytes       
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec    0   57.3 KBytes       
+[  5]   5.00-6.00   sec   256 KBytes  2.10 Mbits/sec    0   77.8 KBytes       
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec    0   92.8 KBytes       
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec    0    113 KBytes       
+[  5]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec    0    128 KBytes       
+[  5]   9.00-10.00  sec  0.00 Bytes  0.00 bits/sec    0    146 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   768 KBytes   629 Kbits/sec    0             sender
+[  5]   0.00-14.14  sec   384 KBytes   222 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=13.3 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=469.1 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=500.8 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=540.7 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=692.4 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=948.1 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=1980.1 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1316.0 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=2324.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1795.7 ms
+TIME: 1771342185
+Connecting to host app-2-server, port 5002
+[  5] local 10.42.3.3 port 42784 connected to 10.43.10.32 port 5002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   35.5 KBytes       
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec    0   38.2 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   46.4 KBytes       
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec    0   64.2 KBytes       
+[  5]   5.00-6.00   sec   256 KBytes  2.10 Mbits/sec    0   81.9 KBytes       
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec    0   98.3 KBytes       
+[  5]   7.00-8.00   sec   256 KBytes  2.10 Mbits/sec    0    123 KBytes       
+[  5]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec    0    143 KBytes       
+[  5]   9.00-10.00  sec   256 KBytes  2.10 Mbits/sec    0    156 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.12 MBytes   944 Kbits/sec    0             sender
+[  5]   0.00-14.14  sec   512 KBytes   297 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=14.9 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=14.6 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=14.5 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=14.3 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=14.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=13.8 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=13.5 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=13.3 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=8 win=64860 rtt=13.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=9 win=64860 rtt=12.8 ms
+TIME: 1771342222
+Connecting to host app-2-server, port 5003
+[  5] local 10.42.3.3 port 55216 connected to 10.43.10.32 port 5003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   35.5 KBytes       
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec    0   38.2 KBytes       
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec    0   42.3 KBytes       
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec    0   54.6 KBytes       
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec    0   73.7 KBytes       
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec    0    105 KBytes       
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec    0    141 KBytes       
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec    0    176 KBytes       
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec    0    213 KBytes       
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec    0    246 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec    0             sender
+[  5]   0.00-13.58  sec   896 KBytes   540 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=182.1 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=469.8 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=509.5 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=541.3 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=613.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=868.7 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=1876.7 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1212.4 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=2220.4 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1684.1 ms
+TIME: 1771342256
+Connecting to host app-2-server, port 5002
+[  5] local 10.42.3.3 port 35282 connected to 10.43.10.32 port 5002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   35.5 KBytes       
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec    0   39.6 KBytes       
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec    0   47.8 KBytes       
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec    0   65.5 KBytes       
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec    0   87.4 KBytes       
+[  5]   6.00-7.00   sec   256 KBytes  2.10 Mbits/sec    0    113 KBytes       
+[  5]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec    0    135 KBytes       
+[  5]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec    0    158 KBytes       
+[  5]   9.00-10.00  sec   384 KBytes  3.15 Mbits/sec    0    182 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec    0             sender
+[  5]   0.00-13.82  sec   640 KBytes   379 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=12.7 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=460.5 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=476.3 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=540.1 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=683.8 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=923.6 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=1939.6 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1291.3 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=2315.3 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1827.2 ms
+TIME: 1771342289
+Connecting to host app-2-server, port 5004
+[  5] local 10.42.3.3 port 48032 connected to 10.43.10.32 port 5004
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+Connecting to host app-2-server, port 5005
+[  5] local 10.42.3.3 port 47406 connected to 10.43.10.32 port 5005
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   13.7 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   13.7 KBytes       
+Connecting to host app-2-server, port 5006
+[  5] local 10.42.3.3 port 48514 connected to 10.43.10.32 port 5006
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+Connecting to host app-2-server, port 5007
+[  5] local 10.42.3.3 port 41270 connected to 10.43.10.32 port 5007
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   16.4 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   16.4 KBytes       
+Connecting to host app-2-server, port 5008
+[  5] local 10.42.3.3 port 40132 connected to 10.43.10.32 port 5008
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+Connecting to host app-2-server, port 5009
+[  5] local 10.42.3.3 port 36356 connected to 10.43.10.32 port 5009
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   13.7 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   13.7 KBytes       
+Connecting to host app-2-server, port 5010
+[  5] local 10.42.3.3 port 44704 connected to 10.43.10.32 port 5010
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+Connecting to host app-2-server, port 5011
+[  5] local 10.42.3.3 port 39478 connected to 10.43.10.32 port 5011
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   27.3 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   27.3 KBytes       
+Connecting to host app-2-server, port 5012
+[  5] local 10.42.3.3 port 60020 connected to 10.43.10.32 port 5012
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    1   13.7 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    1   13.7 KBytes       
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=28.6 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=668.2 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=491.9 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=507.6 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=627.4 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=867.2 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=1899.1 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1362.8 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=2378.8 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1778.6 ms
+TIME: 1771342381
+Connecting to host app-2-server, port 5002
+[  5] local 10.42.3.3 port 48218 connected to 10.43.10.32 port 5002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   36.9 KBytes       
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec    0   39.6 KBytes       
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec    0   49.1 KBytes       
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec    0   66.9 KBytes       
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec    0   91.5 KBytes       
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec    0    115 KBytes       
+[  5]   7.00-8.00   sec   256 KBytes  2.10 Mbits/sec    0    141 KBytes       
+[  5]   8.00-9.00   sec   256 KBytes  2.10 Mbits/sec    0    164 KBytes       
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec    0    188 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec    0             sender
+[  5]   0.00-13.77  sec   640 KBytes   381 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=13.9 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=541.7 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=509.4 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=549.1 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=676.8 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=948.7 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=1956.6 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1340.3 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=2364.3 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1820.1 ms
+TIME: 1771342417
+Connecting to host app-2-server, port 5003
+[  5] local 10.42.3.3 port 39488 connected to 10.43.10.32 port 5003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   36.9 KBytes       
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec    0   39.6 KBytes       
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec    0   49.1 KBytes       
+[  5]   4.00-5.00   sec   256 KBytes  2.10 Mbits/sec    0   66.9 KBytes       
+[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec    0   88.7 KBytes       
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec    0    113 KBytes       
+[  5]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec    0    142 KBytes       
+[  5]   8.00-9.00   sec   384 KBytes  3.15 Mbits/sec    0    164 KBytes       
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec    0    188 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec    0             sender
+[  5]   0.00-13.85  sec   640 KBytes   379 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=13.2 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=477.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=524.7 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=532.5 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=692.2 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=955.9 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=1963.9 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1347.6 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=2371.6 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1851.5 ms
+TIME: 1771342461
+Connecting to host app-2-server, port 5002
+[  5] local 10.42.3.3 port 42010 connected to 10.43.10.32 port 5002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   36.9 KBytes       
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec    0   39.6 KBytes       
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec    0   49.1 KBytes       
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec    0   66.9 KBytes       
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec    0   91.5 KBytes       
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec    0    115 KBytes       
+[  5]   7.00-8.00   sec   256 KBytes  2.10 Mbits/sec    0    142 KBytes       
+[  5]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec    0    167 KBytes       
+[  5]   9.00-10.00  sec   384 KBytes  3.15 Mbits/sec    0    190 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec    0             sender
+[  5]   0.00-13.78  sec   640 KBytes   381 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=12.2 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=547.9 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=515.7 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=627.6 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=699.3 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=947.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1298.6 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1778.4 ms
+TIME: 1771342499
+Connecting to host app-2-server, port 5004
+[  5] local 10.42.3.3 port 57940 connected to 10.43.10.32 port 5004
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   27.3 KBytes       
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec    0   35.5 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   41.0 KBytes       
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec    0   53.2 KBytes       
+[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec    0   62.8 KBytes       
+[  5]   6.00-7.00   sec   256 KBytes  2.10 Mbits/sec    0   83.3 KBytes       
+[  5]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec    0   99.7 KBytes       
+[  5]   8.00-9.00   sec   256 KBytes  2.10 Mbits/sec    0    120 KBytes       
+[  5]   9.00-10.00  sec  0.00 Bytes  0.00 bits/sec    0    124 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   896 KBytes   734 Kbits/sec    0             sender
+[  5]   0.00-13.88  sec   384 KBytes   227 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=14.4 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=662.2 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=486.1 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=541.7 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=613.3 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=877.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1340.7 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1804.5 ms
+TIME: 1771342538
+Connecting to host app-2-server, port 5003
+[  5] local 10.42.3.3 port 58486 connected to 10.43.10.32 port 5003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   27.3 KBytes       
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec    0   54.6 KBytes       
+[  5]   2.00-3.00   sec   256 KBytes  2.10 Mbits/sec    0   57.3 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   60.1 KBytes       
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    0   66.9 KBytes       
+[  5]   5.00-6.00   sec   256 KBytes  2.10 Mbits/sec    0   86.0 KBytes       
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec    0   94.2 KBytes       
+[  5]   7.00-8.00   sec   256 KBytes  2.10 Mbits/sec    0    127 KBytes       
+[  5]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec    0    131 KBytes       
+[  5]   9.00-10.00  sec   256 KBytes  2.10 Mbits/sec    0    154 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.12 MBytes   944 Kbits/sec    0             sender
+[  5]   0.00-13.99  sec   512 KBytes   300 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=13.9 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=661.7 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=493.4 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=509.1 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=644.8 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=892.4 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1244.2 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1763.8 ms
+TIME: 1771342573
+Connecting to host app-2-server, port 5003
+[  5] local 10.42.3.3 port 32848 connected to 10.43.10.32 port 5003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   35.5 KBytes       
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec    0   38.2 KBytes       
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec    0   47.8 KBytes       
+[  5]   4.00-5.00   sec   256 KBytes  2.10 Mbits/sec    0   65.5 KBytes       
+[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec    0   87.4 KBytes       
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec    0    111 KBytes       
+[  5]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec    0    135 KBytes       
+[  5]   8.00-9.00   sec   384 KBytes  3.15 Mbits/sec    0    160 KBytes       
+[  5]   9.00-10.00  sec  0.00 Bytes  0.00 bits/sec    0    180 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.12 MBytes   944 Kbits/sec    0             sender
+[  5]   0.00-13.85  sec   640 KBytes   379 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=13.7 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=477.5 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=509.4 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=549.2 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=669.0 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=956.7 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1380.4 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1868.2 ms
+TIME: 1771342612
+Connecting to host app-2-server, port 5002
+[  5] local 10.42.3.3 port 37888 connected to 10.43.10.32 port 5002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   36.9 KBytes       
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec    0   39.6 KBytes       
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec    0   49.1 KBytes       
+[  5]   4.00-5.00   sec   256 KBytes  2.10 Mbits/sec    0   66.9 KBytes       
+[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec    0   92.8 KBytes       
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec    0    116 KBytes       
+[  5]   7.00-8.00   sec  0.00 Bytes  0.00 bits/sec    0    142 KBytes       
+[  5]   8.00-9.00   sec   384 KBytes  3.15 Mbits/sec    0    164 KBytes       
+[  5]   9.00-10.00  sec  0.00 Bytes  0.00 bits/sec    0    190 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.12 MBytes   944 Kbits/sec    0             sender
+[  5]   0.00-13.80  sec   640 KBytes   380 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=14.5 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=462.2 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=510.1 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=573.9 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=685.5 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=957.2 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=1965.2 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1332.9 ms
+DUP! len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=2340.9 ms
+len=44 ip=10.43.10.32 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1804.7 ms
+TIME: 1771342651
+Connecting to host app-2-server, port 5003
+[  5] local 10.42.3.3 port 49668 connected to 10.43.10.32 port 5003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec    0   38.2 KBytes       
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec    0   42.3 KBytes       
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec    0   51.9 KBytes       
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec    0   72.4 KBytes       
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec    0    101 KBytes       
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec    0    137 KBytes       
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec    0    169 KBytes       
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec    0    202 KBytes       
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec    0    235 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec    0             sender
+[  5]   0.00-13.53  sec   896 KBytes   543 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.10.32): S set, 40 headers + 0 data bytes

@@ -1,0 +1,68 @@
+strict digraph {
+
+	K="0.6";
+
+	layout="fdp";
+
+	overlap="false";
+
+	splines="line";
+
+
+	"worker-5" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-5" -> "worker-0" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="{"M":0,"C":0,"A":0}",  weight=0 ];
+
+	"worker-0" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-0" -> "worker-1" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="1(x + 0) + 0",  weight=0 ];
+
+	"worker-0" -> "worker-5" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="{"M":0,"C":0,"A":0}",  weight=0 ];
+
+	"worker-0" -> "manager-0" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="{"M":0,"C":0,"A":0}",  weight=0 ];
+
+	"worker-4" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-4" -> "worker-1" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="{"M":0,"C":0,"A":0}",  weight=0 ];
+
+	"worker-4" -> "worker-3" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="{"M":0,"C":0,"A":0}",  weight=0 ];
+
+	"worker-6" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-6" -> "manager-0" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="1(x + 0) + 0",  weight=0 ];
+
+	"manager-0" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"manager-0" -> "worker-6" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="{"M":0,"C":0,"A":0}",  weight=0 ];
+
+	"manager-0" -> "worker-0" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="1(x + 0) + 0",  weight=0 ];
+
+	"worker-1" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-1" -> "worker-4" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="{"M":0,"C":0,"A":0}",  weight=0 ];
+
+	"worker-1" -> "worker-0" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="{"M":0,"C":0,"A":0}",  weight=0 ];
+
+	"worker-1" -> "worker-2" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="1(x + 0) + 0",  weight=0 ];
+
+	"worker-2" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-2" -> "worker-1" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="{"M":0,"C":0,"A":0}",  weight=0 ];
+
+	"worker-2" -> "worker-3" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="{"M":0,"C":0,"A":0}",  weight=0 ];
+
+	"worker-3" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-3" -> "worker-2" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="{"M":0,"C":0,"A":0}",  weight=0 ];
+
+	"worker-3" -> "worker-4" [ label="5ms 1.30mbps", latency="5", throughput="1.30", type="connection", wanted_connection="{"M":0,"C":0,"A":0}",  weight=0 ];
+
+	"app-5-client-54f44d9654-45tcm" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-5-client-54f44d9654-45tcm" -> "worker-6" [ type="assign",  weight=0 ];
+
+	"app-5-server-5845d7f799-5jzbx" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-5-server-5845d7f799-5jzbx" -> "worker-2" [ type="assign",  weight=0 ];
+
+}

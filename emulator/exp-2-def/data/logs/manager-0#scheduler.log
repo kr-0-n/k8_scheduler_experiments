@@ -1,0 +1,1643 @@
+Di 17. Feb 15:56:47 UTC 2026: Start Scheduler
+2026/02/17 15:56:57 ==================================================
+2026/02/17 15:56:57 Found Node: manager-0, Online true
+2026/02/17 15:56:57 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:57:07 ==================================================
+2026/02/17 15:57:07 Found Node: manager-0, Online true
+2026/02/17 15:57:07 Found Node: worker-0, Online true
+2026/02/17 15:57:07 Found Node: worker-1, Online true
+2026/02/17 15:57:07 Found Node: worker-2, Online true
+2026/02/17 15:57:07 Found Node: worker-3, Online true
+2026/02/17 15:57:07 Found Node: worker-4, Online true
+2026/02/17 15:57:07 Found Node: worker-5, Online true
+2026/02/17 15:57:07 Found Node: worker-6, Online true
+2026/02/17 15:57:07 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:57:17 ==================================================
+2026/02/17 15:57:17 Found Node: manager-0, Online true
+2026/02/17 15:57:17 Found Node: worker-0, Online true
+2026/02/17 15:57:17 Found Node: worker-1, Online true
+2026/02/17 15:57:17 Found Node: worker-2, Online true
+2026/02/17 15:57:17 Found Node: worker-3, Online true
+2026/02/17 15:57:17 Found Node: worker-4, Online true
+2026/02/17 15:57:17 Found Node: worker-5, Online true
+2026/02/17 15:57:17 Found Node: worker-6, Online true
+2026/02/17 15:57:17 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:57:27 ==================================================
+2026/02/17 15:57:27 Found Node: manager-0, Online true
+2026/02/17 15:57:27 Found Node: worker-0, Online true
+2026/02/17 15:57:27 Found Node: worker-1, Online true
+2026/02/17 15:57:27 Found Node: worker-2, Online true
+2026/02/17 15:57:27 Found Node: worker-3, Online true
+2026/02/17 15:57:27 Found Node: worker-4, Online true
+2026/02/17 15:57:27 Found Node: worker-5, Online true
+2026/02/17 15:57:27 Found Node: worker-6, Online true
+2026/02/17 15:57:27 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:57:37 ==================================================
+2026/02/17 15:57:37 Found Node: manager-0, Online true
+2026/02/17 15:57:37 Found Node: worker-0, Online true
+2026/02/17 15:57:37 Found Node: worker-1, Online true
+2026/02/17 15:57:37 Found Node: worker-2, Online true
+2026/02/17 15:57:37 Found Node: worker-3, Online true
+2026/02/17 15:57:37 Found Node: worker-4, Online true
+2026/02/17 15:57:37 Found Node: worker-5, Online true
+2026/02/17 15:57:37 Found Node: worker-6, Online true
+2026/02/17 15:57:37 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:57:47 ==================================================
+2026/02/17 15:57:47 Found Node: manager-0, Online true
+2026/02/17 15:57:47 Found Node: worker-0, Online true
+2026/02/17 15:57:47 Found Node: worker-1, Online true
+2026/02/17 15:57:47 Found Node: worker-2, Online true
+2026/02/17 15:57:47 Found Node: worker-3, Online true
+2026/02/17 15:57:47 Found Node: worker-4, Online true
+2026/02/17 15:57:47 Found Node: worker-5, Online true
+2026/02/17 15:57:47 Found Node: worker-6, Online true
+2026/02/17 15:57:47 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:57:57 ==================================================
+2026/02/17 15:57:57 Found Node: manager-0, Online true
+2026/02/17 15:57:57 Found Node: worker-0, Online true
+2026/02/17 15:57:57 Found Node: worker-1, Online true
+2026/02/17 15:57:57 Found Node: worker-2, Online true
+2026/02/17 15:57:57 Found Node: worker-3, Online true
+2026/02/17 15:57:57 Found Node: worker-4, Online true
+2026/02/17 15:57:57 Found Node: worker-5, Online true
+2026/02/17 15:57:57 Found Node: worker-6, Online true
+2026/02/17 15:57:57 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:58:07 ==================================================
+2026/02/17 15:58:07 Found Node: manager-0, Online true
+2026/02/17 15:58:07 Found Node: worker-0, Online true
+2026/02/17 15:58:07 Found Node: worker-1, Online true
+2026/02/17 15:58:07 Found Node: worker-2, Online true
+2026/02/17 15:58:07 Found Node: worker-3, Online true
+2026/02/17 15:58:07 Found Node: worker-4, Online true
+2026/02/17 15:58:07 Found Node: worker-5, Online true
+2026/02/17 15:58:07 Found Node: worker-6, Online true
+2026/02/17 15:58:07 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:58:07 Found Pod: app-1-client-6b8b954b54-762m9, Status: Pending, NodeName: worker-2
+2026/02/17 15:58:07 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Pending, NodeName: worker-1
+2026/02/17 15:58:07 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 15:58:07 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 15:58:17 ==================================================
+2026/02/17 15:58:17 Found Node: manager-0, Online true
+2026/02/17 15:58:17 Found Node: worker-0, Online true
+2026/02/17 15:58:17 Found Node: worker-1, Online true
+2026/02/17 15:58:17 Found Node: worker-2, Online true
+2026/02/17 15:58:17 Found Node: worker-3, Online true
+2026/02/17 15:58:17 Found Node: worker-4, Online true
+2026/02/17 15:58:17 Found Node: worker-5, Online true
+2026/02/17 15:58:17 Found Node: worker-6, Online true
+2026/02/17 15:58:17 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:58:17 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 15:58:17 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 15:58:17 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 15:58:17 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 15:58:17 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 15:58:17 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 15:58:17 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 15:58:17 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 15:58:17 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 15:58:17 Found Pod: app-3-client-9557668d6-qvt4k, Status: Pending, NodeName: worker-0
+2026/02/17 15:58:17 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Pending, NodeName: worker-6
+2026/02/17 15:58:27 ==================================================
+2026/02/17 15:58:27 Found Node: manager-0, Online true
+2026/02/17 15:58:27 Found Node: worker-0, Online true
+2026/02/17 15:58:27 Found Node: worker-1, Online true
+2026/02/17 15:58:27 Found Node: worker-2, Online true
+2026/02/17 15:58:27 Found Node: worker-3, Online true
+2026/02/17 15:58:27 Found Node: worker-4, Online true
+2026/02/17 15:58:27 Found Node: worker-5, Online true
+2026/02/17 15:58:27 Found Node: worker-6, Online true
+2026/02/17 15:58:27 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:58:27 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 15:58:27 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 15:58:27 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 15:58:27 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 15:58:27 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 15:58:27 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 15:58:27 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 15:58:27 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 15:58:27 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 15:58:27 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 15:58:27 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 15:58:27 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Pending, NodeName: worker-4
+2026/02/17 15:58:27 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 15:58:37 ==================================================
+2026/02/17 15:58:37 Found Node: manager-0, Online true
+2026/02/17 15:58:37 Found Node: worker-0, Online true
+2026/02/17 15:58:37 Found Node: worker-1, Online true
+2026/02/17 15:58:37 Found Node: worker-2, Online true
+2026/02/17 15:58:37 Found Node: worker-3, Online true
+2026/02/17 15:58:37 Found Node: worker-4, Online true
+2026/02/17 15:58:37 Found Node: worker-5, Online true
+2026/02/17 15:58:37 Found Node: worker-6, Online true
+2026/02/17 15:58:37 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:58:37 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 15:58:37 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 15:58:37 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 15:58:37 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 15:58:37 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 15:58:37 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 15:58:37 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 15:58:37 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 15:58:37 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 15:58:37 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 15:58:37 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 15:58:37 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 15:58:37 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 15:58:37 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 15:58:37 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 15:58:47 ==================================================
+2026/02/17 15:58:47 Found Node: manager-0, Online true
+2026/02/17 15:58:47 Found Node: worker-0, Online true
+2026/02/17 15:58:47 Found Node: worker-1, Online true
+2026/02/17 15:58:47 Found Node: worker-2, Online true
+2026/02/17 15:58:47 Found Node: worker-3, Online true
+2026/02/17 15:58:47 Found Node: worker-4, Online true
+2026/02/17 15:58:47 Found Node: worker-5, Online true
+2026/02/17 15:58:47 Found Node: worker-6, Online true
+2026/02/17 15:58:47 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:58:47 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 15:58:47 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 15:58:47 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 15:58:47 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 15:58:47 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 15:58:47 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 15:58:47 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 15:58:47 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 15:58:47 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 15:58:47 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 15:58:47 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 15:58:47 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 15:58:47 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 15:58:47 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 15:58:47 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 15:58:57 ==================================================
+2026/02/17 15:58:57 Found Node: manager-0, Online true
+2026/02/17 15:58:57 Found Node: worker-0, Online true
+2026/02/17 15:58:57 Found Node: worker-1, Online true
+2026/02/17 15:58:57 Found Node: worker-2, Online true
+2026/02/17 15:58:57 Found Node: worker-3, Online true
+2026/02/17 15:58:57 Found Node: worker-4, Online true
+2026/02/17 15:58:57 Found Node: worker-5, Online true
+2026/02/17 15:58:57 Found Node: worker-6, Online true
+2026/02/17 15:58:57 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:58:57 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 15:58:57 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 15:58:57 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 15:58:57 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 15:58:57 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 15:58:57 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 15:58:57 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 15:58:57 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 15:58:57 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 15:58:57 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 15:58:57 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 15:58:57 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 15:58:57 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 15:58:57 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 15:58:57 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 15:59:07 ==================================================
+2026/02/17 15:59:07 Found Node: manager-0, Online true
+2026/02/17 15:59:07 Found Node: worker-0, Online true
+2026/02/17 15:59:07 Found Node: worker-1, Online true
+2026/02/17 15:59:07 Found Node: worker-2, Online true
+2026/02/17 15:59:07 Found Node: worker-3, Online true
+2026/02/17 15:59:07 Found Node: worker-4, Online true
+2026/02/17 15:59:07 Found Node: worker-5, Online true
+2026/02/17 15:59:07 Found Node: worker-6, Online true
+2026/02/17 15:59:07 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:59:07 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 15:59:07 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 15:59:07 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 15:59:07 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 15:59:07 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 15:59:07 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 15:59:07 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 15:59:07 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 15:59:07 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 15:59:07 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 15:59:07 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 15:59:07 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 15:59:07 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 15:59:07 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 15:59:07 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 15:59:17 ==================================================
+2026/02/17 15:59:17 Found Node: manager-0, Online true
+2026/02/17 15:59:17 Found Node: worker-0, Online true
+2026/02/17 15:59:17 Found Node: worker-1, Online true
+2026/02/17 15:59:17 Found Node: worker-2, Online true
+2026/02/17 15:59:17 Found Node: worker-3, Online true
+2026/02/17 15:59:17 Found Node: worker-4, Online true
+2026/02/17 15:59:17 Found Node: worker-5, Online true
+2026/02/17 15:59:17 Found Node: worker-6, Online true
+2026/02/17 15:59:17 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:59:17 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 15:59:17 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 15:59:17 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 15:59:17 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 15:59:17 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 15:59:17 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 15:59:17 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 15:59:17 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 15:59:17 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 15:59:17 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 15:59:17 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 15:59:17 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 15:59:17 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 15:59:17 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 15:59:17 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 15:59:27 ==================================================
+2026/02/17 15:59:27 Found Node: manager-0, Online true
+2026/02/17 15:59:27 Found Node: worker-0, Online true
+2026/02/17 15:59:27 Found Node: worker-1, Online true
+2026/02/17 15:59:27 Found Node: worker-2, Online true
+2026/02/17 15:59:27 Found Node: worker-3, Online true
+2026/02/17 15:59:27 Found Node: worker-4, Online true
+2026/02/17 15:59:27 Found Node: worker-5, Online true
+2026/02/17 15:59:27 Found Node: worker-6, Online true
+2026/02/17 15:59:27 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:59:27 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 15:59:27 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 15:59:27 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 15:59:27 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 15:59:27 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 15:59:27 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 15:59:27 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 15:59:27 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 15:59:27 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 15:59:27 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 15:59:27 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 15:59:27 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 15:59:27 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 15:59:27 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 15:59:27 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 15:59:37 ==================================================
+2026/02/17 15:59:37 Found Node: manager-0, Online true
+2026/02/17 15:59:37 Found Node: worker-0, Online true
+2026/02/17 15:59:37 Found Node: worker-1, Online true
+2026/02/17 15:59:37 Found Node: worker-2, Online true
+2026/02/17 15:59:37 Found Node: worker-3, Online true
+2026/02/17 15:59:37 Found Node: worker-4, Online true
+2026/02/17 15:59:37 Found Node: worker-5, Online true
+2026/02/17 15:59:37 Found Node: worker-6, Online true
+2026/02/17 15:59:37 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:59:37 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 15:59:37 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 15:59:37 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 15:59:37 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 15:59:37 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 15:59:37 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 15:59:37 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 15:59:37 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 15:59:37 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 15:59:37 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 15:59:37 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 15:59:37 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 15:59:37 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 15:59:37 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 15:59:37 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 15:59:47 ==================================================
+2026/02/17 15:59:47 Found Node: manager-0, Online true
+2026/02/17 15:59:47 Found Node: worker-0, Online true
+2026/02/17 15:59:47 Found Node: worker-1, Online true
+2026/02/17 15:59:47 Found Node: worker-2, Online true
+2026/02/17 15:59:47 Found Node: worker-3, Online true
+2026/02/17 15:59:47 Found Node: worker-4, Online true
+2026/02/17 15:59:47 Found Node: worker-5, Online true
+2026/02/17 15:59:47 Found Node: worker-6, Online true
+2026/02/17 15:59:47 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:59:47 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 15:59:47 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 15:59:47 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 15:59:47 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 15:59:47 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 15:59:47 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 15:59:47 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 15:59:47 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 15:59:47 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 15:59:47 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 15:59:47 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 15:59:47 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 15:59:47 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 15:59:47 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 15:59:47 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 15:59:57 ==================================================
+2026/02/17 15:59:57 Found Node: manager-0, Online true
+2026/02/17 15:59:57 Found Node: worker-0, Online true
+2026/02/17 15:59:57 Found Node: worker-1, Online true
+2026/02/17 15:59:57 Found Node: worker-2, Online true
+2026/02/17 15:59:57 Found Node: worker-3, Online true
+2026/02/17 15:59:57 Found Node: worker-4, Online true
+2026/02/17 15:59:57 Found Node: worker-5, Online true
+2026/02/17 15:59:57 Found Node: worker-6, Online true
+2026/02/17 15:59:57 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 15:59:57 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 15:59:57 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 15:59:57 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 15:59:57 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 15:59:57 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 15:59:57 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 15:59:57 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 15:59:57 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 15:59:57 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 15:59:57 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 15:59:57 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 15:59:57 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 15:59:57 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 15:59:57 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 15:59:57 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:00:07 ==================================================
+2026/02/17 16:00:07 Found Node: manager-0, Online true
+2026/02/17 16:00:07 Found Node: worker-0, Online true
+2026/02/17 16:00:07 Found Node: worker-1, Online true
+2026/02/17 16:00:07 Found Node: worker-2, Online true
+2026/02/17 16:00:07 Found Node: worker-3, Online true
+2026/02/17 16:00:07 Found Node: worker-4, Online true
+2026/02/17 16:00:07 Found Node: worker-5, Online true
+2026/02/17 16:00:07 Found Node: worker-6, Online true
+2026/02/17 16:00:07 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:00:07 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:00:07 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:00:07 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:00:07 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 16:00:07 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:00:07 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:00:07 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:00:07 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:00:07 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:00:07 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:00:07 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:00:07 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:00:07 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:00:07 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:00:07 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:00:17 ==================================================
+2026/02/17 16:00:17 Found Node: manager-0, Online true
+2026/02/17 16:00:17 Found Node: worker-0, Online true
+2026/02/17 16:00:17 Found Node: worker-1, Online true
+2026/02/17 16:00:17 Found Node: worker-2, Online true
+2026/02/17 16:00:17 Found Node: worker-3, Online true
+2026/02/17 16:00:17 Found Node: worker-4, Online true
+2026/02/17 16:00:17 Found Node: worker-5, Online true
+2026/02/17 16:00:17 Found Node: worker-6, Online true
+2026/02/17 16:00:17 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:00:17 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:00:17 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:00:17 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:00:17 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 16:00:17 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:00:17 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:00:17 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:00:17 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:00:17 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:00:17 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:00:17 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:00:17 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:00:17 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:00:17 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:00:17 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:00:27 ==================================================
+2026/02/17 16:00:27 Found Node: manager-0, Online true
+2026/02/17 16:00:27 Found Node: worker-0, Online true
+2026/02/17 16:00:27 Found Node: worker-1, Online true
+2026/02/17 16:00:27 Found Node: worker-2, Online true
+2026/02/17 16:00:27 Found Node: worker-3, Online true
+2026/02/17 16:00:27 Found Node: worker-4, Online true
+2026/02/17 16:00:27 Found Node: worker-5, Online true
+2026/02/17 16:00:27 Found Node: worker-6, Online true
+2026/02/17 16:00:27 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:00:27 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:00:27 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:00:27 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:00:27 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 16:00:27 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:00:27 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:00:27 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:00:27 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:00:27 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:00:27 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:00:27 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:00:27 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:00:27 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:00:27 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:00:27 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:00:37 ==================================================
+2026/02/17 16:00:37 Found Node: manager-0, Online true
+2026/02/17 16:00:37 Found Node: worker-0, Online true
+2026/02/17 16:00:37 Found Node: worker-1, Online true
+2026/02/17 16:00:37 Found Node: worker-2, Online true
+2026/02/17 16:00:37 Found Node: worker-3, Online true
+2026/02/17 16:00:37 Found Node: worker-4, Online true
+2026/02/17 16:00:37 Found Node: worker-5, Online true
+2026/02/17 16:00:37 Found Node: worker-6, Online true
+2026/02/17 16:00:37 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:00:37 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:00:37 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:00:37 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:00:37 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 16:00:37 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:00:37 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:00:37 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:00:37 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:00:37 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:00:37 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:00:37 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:00:37 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:00:37 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:00:37 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:00:37 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:00:47 ==================================================
+2026/02/17 16:00:47 Found Node: manager-0, Online true
+2026/02/17 16:00:47 Found Node: worker-0, Online true
+2026/02/17 16:00:47 Found Node: worker-1, Online true
+2026/02/17 16:00:47 Found Node: worker-2, Online true
+2026/02/17 16:00:47 Found Node: worker-3, Online true
+2026/02/17 16:00:47 Found Node: worker-4, Online true
+2026/02/17 16:00:47 Found Node: worker-5, Online true
+2026/02/17 16:00:47 Found Node: worker-6, Online true
+2026/02/17 16:00:47 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:00:47 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:00:47 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:00:47 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:00:47 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 16:00:47 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:00:47 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:00:47 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:00:47 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:00:47 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:00:47 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:00:47 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:00:47 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:00:47 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:00:47 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:00:47 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:00:57 ==================================================
+2026/02/17 16:00:57 Found Node: manager-0, Online true
+2026/02/17 16:00:57 Found Node: worker-0, Online true
+2026/02/17 16:00:57 Found Node: worker-1, Online true
+2026/02/17 16:00:57 Found Node: worker-2, Online true
+2026/02/17 16:00:57 Found Node: worker-3, Online true
+2026/02/17 16:00:57 Found Node: worker-4, Online true
+2026/02/17 16:00:57 Found Node: worker-5, Online true
+2026/02/17 16:00:57 Found Node: worker-6, Online true
+2026/02/17 16:00:57 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:00:57 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:00:57 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:00:57 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:00:57 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 16:00:57 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:00:57 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:00:57 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:00:57 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:00:57 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:00:57 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:00:57 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:00:57 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:00:57 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:00:57 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:00:57 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:01:07 ==================================================
+2026/02/17 16:01:07 Found Node: manager-0, Online true
+2026/02/17 16:01:07 Found Node: worker-0, Online true
+2026/02/17 16:01:07 Found Node: worker-1, Online true
+2026/02/17 16:01:07 Found Node: worker-2, Online true
+2026/02/17 16:01:07 Found Node: worker-3, Online true
+2026/02/17 16:01:07 Found Node: worker-4, Online true
+2026/02/17 16:01:07 Found Node: worker-5, Online true
+2026/02/17 16:01:07 Found Node: worker-6, Online true
+2026/02/17 16:01:07 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:01:07 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:01:07 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:01:07 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:01:07 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 16:01:07 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:01:07 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:01:07 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:01:07 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:01:07 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:01:07 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:01:07 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:01:07 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:01:07 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:01:07 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:01:07 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:01:17 ==================================================
+2026/02/17 16:01:17 Found Node: manager-0, Online true
+2026/02/17 16:01:17 Found Node: worker-0, Online true
+2026/02/17 16:01:17 Found Node: worker-1, Online true
+2026/02/17 16:01:17 Found Node: worker-2, Online true
+2026/02/17 16:01:17 Found Node: worker-3, Online true
+2026/02/17 16:01:17 Found Node: worker-4, Online true
+2026/02/17 16:01:17 Found Node: worker-5, Online true
+2026/02/17 16:01:17 Found Node: worker-6, Online true
+2026/02/17 16:01:17 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:01:17 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:01:17 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:01:17 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:01:17 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 16:01:17 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:01:17 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:01:17 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:01:17 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:01:17 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:01:17 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:01:17 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:01:17 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:01:17 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:01:17 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:01:17 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:01:27 ==================================================
+2026/02/17 16:01:27 Found Node: manager-0, Online true
+2026/02/17 16:01:27 Found Node: worker-0, Online true
+2026/02/17 16:01:27 Found Node: worker-1, Online false
+2026/02/17 16:01:27 Found Node: worker-2, Online true
+2026/02/17 16:01:27 Found Node: worker-3, Online true
+2026/02/17 16:01:27 Found Node: worker-4, Online true
+2026/02/17 16:01:27 Found Node: worker-5, Online true
+2026/02/17 16:01:27 Found Node: worker-6, Online true
+2026/02/17 16:01:27 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:01:27 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:01:27 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:01:27 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:01:27 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 16:01:27 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:01:27 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:01:27 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:01:27 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:01:27 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:01:27 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:01:27 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:01:27 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:01:27 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:01:27 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:01:27 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:01:37 ==================================================
+2026/02/17 16:01:37 Found Node: manager-0, Online true
+2026/02/17 16:01:37 Found Node: worker-0, Online true
+2026/02/17 16:01:37 Found Node: worker-1, Online false
+2026/02/17 16:01:37 Found Node: worker-2, Online true
+2026/02/17 16:01:37 Found Node: worker-3, Online true
+2026/02/17 16:01:37 Found Node: worker-4, Online true
+2026/02/17 16:01:37 Found Node: worker-5, Online true
+2026/02/17 16:01:37 Found Node: worker-6, Online true
+2026/02/17 16:01:37 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:01:37 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:01:37 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Pending, NodeName: worker-5
+2026/02/17 16:01:37 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:01:37 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:01:37 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Pending, NodeName: manager-0
+2026/02/17 16:01:37 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 16:01:37 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:01:37 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:01:37 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:01:37 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:01:37 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:01:37 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:01:37 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:01:37 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:01:37 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:01:37 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:01:37 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:01:47 ==================================================
+2026/02/17 16:01:47 Found Node: manager-0, Online true
+2026/02/17 16:01:47 Found Node: worker-0, Online true
+2026/02/17 16:01:47 Found Node: worker-1, Online false
+2026/02/17 16:01:47 Found Node: worker-2, Online true
+2026/02/17 16:01:47 Found Node: worker-3, Online true
+2026/02/17 16:01:47 Found Node: worker-4, Online true
+2026/02/17 16:01:47 Found Node: worker-5, Online true
+2026/02/17 16:01:47 Found Node: worker-6, Online true
+2026/02/17 16:01:47 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:01:47 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:01:47 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:01:47 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:01:47 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:01:47 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:01:47 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 16:01:47 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:01:47 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:01:47 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:01:47 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:01:47 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:01:47 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:01:47 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:01:47 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:01:47 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:01:47 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:01:47 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:01:57 ==================================================
+2026/02/17 16:01:57 Found Node: manager-0, Online true
+2026/02/17 16:01:57 Found Node: worker-0, Online true
+2026/02/17 16:01:57 Found Node: worker-1, Online false
+2026/02/17 16:01:57 Found Node: worker-2, Online true
+2026/02/17 16:01:57 Found Node: worker-3, Online true
+2026/02/17 16:01:57 Found Node: worker-4, Online true
+2026/02/17 16:01:57 Found Node: worker-5, Online true
+2026/02/17 16:01:57 Found Node: worker-6, Online true
+2026/02/17 16:01:57 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:01:57 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:01:57 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:01:57 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:01:57 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:01:57 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:01:57 Found Pod: app-1-server-f888bc44f-jfw59, Status: Running, NodeName: manager-0
+2026/02/17 16:01:57 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:01:57 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:01:57 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:01:57 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:01:57 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:01:57 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:01:57 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:01:57 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:01:57 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:01:57 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:01:57 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:02:07 ==================================================
+2026/02/17 16:02:07 Found Node: manager-0, Online true
+2026/02/17 16:02:07 Found Node: worker-0, Online true
+2026/02/17 16:02:07 Found Node: worker-1, Online false
+2026/02/17 16:02:07 Found Node: worker-2, Online true
+2026/02/17 16:02:07 Found Node: worker-3, Online true
+2026/02/17 16:02:07 Found Node: worker-4, Online true
+2026/02/17 16:02:07 Found Node: worker-5, Online true
+2026/02/17 16:02:07 Found Node: worker-6, Online true
+2026/02/17 16:02:07 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:02:07 Found Pod: app-1-client-6b8b954b54-762m9, Status: Running, NodeName: worker-2
+2026/02/17 16:02:07 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:02:07 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:02:07 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:02:07 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:02:07 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:02:07 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:02:07 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:02:07 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:02:07 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:02:07 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:02:07 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:02:07 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:02:07 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:02:07 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:02:07 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:02:17 ==================================================
+2026/02/17 16:02:17 Found Node: manager-0, Online true
+2026/02/17 16:02:17 Found Node: worker-0, Online true
+2026/02/17 16:02:17 Found Node: worker-1, Online false
+2026/02/17 16:02:17 Found Node: worker-2, Online true
+2026/02/17 16:02:17 Found Node: worker-3, Online true
+2026/02/17 16:02:17 Found Node: worker-4, Online true
+2026/02/17 16:02:17 Found Node: worker-5, Online true
+2026/02/17 16:02:17 Found Node: worker-6, Online true
+2026/02/17 16:02:17 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:02:17 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:02:17 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:02:17 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:02:17 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:02:17 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:02:17 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:02:17 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:02:17 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:02:17 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:02:17 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:02:17 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:02:17 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:02:17 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:02:17 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:02:17 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:02:27 ==================================================
+2026/02/17 16:02:27 Found Node: manager-0, Online true
+2026/02/17 16:02:27 Found Node: worker-0, Online true
+2026/02/17 16:02:27 Found Node: worker-1, Online true
+2026/02/17 16:02:27 Found Node: worker-2, Online true
+2026/02/17 16:02:27 Found Node: worker-3, Online true
+2026/02/17 16:02:27 Found Node: worker-4, Online true
+2026/02/17 16:02:27 Found Node: worker-5, Online true
+2026/02/17 16:02:27 Found Node: worker-6, Online true
+2026/02/17 16:02:27 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:02:27 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:02:27 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:02:27 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:02:27 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:02:27 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:02:27 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:02:27 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:02:27 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:02:27 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:02:27 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:02:27 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:02:27 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:02:27 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:02:27 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:02:27 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:02:37 ==================================================
+2026/02/17 16:02:37 Found Node: manager-0, Online true
+2026/02/17 16:02:37 Found Node: worker-0, Online true
+2026/02/17 16:02:37 Found Node: worker-1, Online true
+2026/02/17 16:02:37 Found Node: worker-2, Online true
+2026/02/17 16:02:37 Found Node: worker-3, Online true
+2026/02/17 16:02:37 Found Node: worker-4, Online true
+2026/02/17 16:02:37 Found Node: worker-5, Online true
+2026/02/17 16:02:37 Found Node: worker-6, Online true
+2026/02/17 16:02:37 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:02:37 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:02:37 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:02:37 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:02:37 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:02:37 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:02:37 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:02:37 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:02:37 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:02:37 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:02:37 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:02:37 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:02:37 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:02:37 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:02:37 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:02:37 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:02:47 ==================================================
+2026/02/17 16:02:47 Found Node: manager-0, Online true
+2026/02/17 16:02:47 Found Node: worker-0, Online true
+2026/02/17 16:02:47 Found Node: worker-1, Online true
+2026/02/17 16:02:47 Found Node: worker-2, Online true
+2026/02/17 16:02:47 Found Node: worker-3, Online true
+2026/02/17 16:02:47 Found Node: worker-4, Online true
+2026/02/17 16:02:47 Found Node: worker-5, Online true
+2026/02/17 16:02:47 Found Node: worker-6, Online true
+2026/02/17 16:02:47 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:02:47 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:02:47 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:02:47 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:02:47 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:02:47 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:02:47 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:02:47 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:02:47 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:02:47 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:02:47 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:02:47 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:02:47 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:02:47 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:02:47 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:02:47 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:02:57 ==================================================
+2026/02/17 16:02:57 Found Node: manager-0, Online true
+2026/02/17 16:02:57 Found Node: worker-0, Online true
+2026/02/17 16:02:57 Found Node: worker-1, Online true
+2026/02/17 16:02:57 Found Node: worker-2, Online true
+2026/02/17 16:02:57 Found Node: worker-3, Online true
+2026/02/17 16:02:57 Found Node: worker-4, Online true
+2026/02/17 16:02:57 Found Node: worker-5, Online true
+2026/02/17 16:02:57 Found Node: worker-6, Online true
+2026/02/17 16:02:57 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:02:57 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:02:57 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:02:57 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:02:57 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:02:57 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:02:57 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:02:57 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:02:57 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:02:57 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:02:57 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:02:57 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:02:57 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:02:57 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:02:57 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:02:57 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:03:07 ==================================================
+2026/02/17 16:03:07 Found Node: manager-0, Online true
+2026/02/17 16:03:07 Found Node: worker-0, Online true
+2026/02/17 16:03:07 Found Node: worker-1, Online true
+2026/02/17 16:03:07 Found Node: worker-2, Online true
+2026/02/17 16:03:07 Found Node: worker-3, Online true
+2026/02/17 16:03:07 Found Node: worker-4, Online true
+2026/02/17 16:03:07 Found Node: worker-5, Online true
+2026/02/17 16:03:07 Found Node: worker-6, Online true
+2026/02/17 16:03:07 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:03:07 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:03:07 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:03:07 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:03:07 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:03:07 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:03:07 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:03:07 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:03:07 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:03:07 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:03:07 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:03:07 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:03:07 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:03:07 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:03:07 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:03:07 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:03:17 ==================================================
+2026/02/17 16:03:17 Found Node: manager-0, Online true
+2026/02/17 16:03:17 Found Node: worker-0, Online true
+2026/02/17 16:03:17 Found Node: worker-1, Online true
+2026/02/17 16:03:17 Found Node: worker-2, Online true
+2026/02/17 16:03:17 Found Node: worker-3, Online true
+2026/02/17 16:03:17 Found Node: worker-4, Online true
+2026/02/17 16:03:17 Found Node: worker-5, Online true
+2026/02/17 16:03:17 Found Node: worker-6, Online true
+2026/02/17 16:03:17 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:03:17 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:03:17 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:03:17 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:03:17 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:03:17 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:03:17 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:03:17 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:03:17 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:03:17 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:03:17 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:03:17 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:03:17 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:03:17 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:03:17 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:03:17 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:03:27 ==================================================
+2026/02/17 16:03:27 Found Node: manager-0, Online true
+2026/02/17 16:03:27 Found Node: worker-0, Online true
+2026/02/17 16:03:27 Found Node: worker-1, Online true
+2026/02/17 16:03:27 Found Node: worker-2, Online true
+2026/02/17 16:03:27 Found Node: worker-3, Online true
+2026/02/17 16:03:27 Found Node: worker-4, Online true
+2026/02/17 16:03:27 Found Node: worker-5, Online true
+2026/02/17 16:03:27 Found Node: worker-6, Online true
+2026/02/17 16:03:27 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:03:27 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:03:27 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:03:27 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:03:27 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:03:27 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:03:27 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:03:27 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:03:27 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:03:27 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:03:27 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:03:27 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:03:27 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:03:27 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:03:27 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:03:27 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:03:37 ==================================================
+2026/02/17 16:03:37 Found Node: manager-0, Online true
+2026/02/17 16:03:37 Found Node: worker-0, Online true
+2026/02/17 16:03:37 Found Node: worker-1, Online true
+2026/02/17 16:03:37 Found Node: worker-2, Online true
+2026/02/17 16:03:37 Found Node: worker-3, Online true
+2026/02/17 16:03:37 Found Node: worker-4, Online true
+2026/02/17 16:03:37 Found Node: worker-5, Online true
+2026/02/17 16:03:37 Found Node: worker-6, Online true
+2026/02/17 16:03:37 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:03:37 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:03:37 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:03:37 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:03:37 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:03:37 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:03:37 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:03:37 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:03:37 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:03:37 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:03:37 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:03:37 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:03:37 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:03:37 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:03:37 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:03:37 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:03:47 ==================================================
+2026/02/17 16:03:47 Found Node: manager-0, Online true
+2026/02/17 16:03:47 Found Node: worker-0, Online true
+2026/02/17 16:03:47 Found Node: worker-1, Online true
+2026/02/17 16:03:47 Found Node: worker-2, Online true
+2026/02/17 16:03:47 Found Node: worker-3, Online true
+2026/02/17 16:03:47 Found Node: worker-4, Online true
+2026/02/17 16:03:47 Found Node: worker-5, Online true
+2026/02/17 16:03:47 Found Node: worker-6, Online true
+2026/02/17 16:03:47 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:03:47 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:03:47 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:03:47 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:03:47 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:03:47 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:03:47 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:03:47 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:03:47 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:03:47 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:03:47 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:03:47 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:03:47 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:03:47 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:03:47 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:03:47 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:03:57 ==================================================
+2026/02/17 16:03:57 Found Node: manager-0, Online true
+2026/02/17 16:03:57 Found Node: worker-0, Online true
+2026/02/17 16:03:57 Found Node: worker-1, Online true
+2026/02/17 16:03:57 Found Node: worker-2, Online true
+2026/02/17 16:03:57 Found Node: worker-3, Online true
+2026/02/17 16:03:57 Found Node: worker-4, Online true
+2026/02/17 16:03:57 Found Node: worker-5, Online true
+2026/02/17 16:03:57 Found Node: worker-6, Online true
+2026/02/17 16:03:57 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:03:57 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:03:57 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:03:57 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:03:57 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:03:57 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:03:57 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:03:57 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:03:57 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:03:57 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:03:57 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:03:57 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:03:57 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:03:57 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:03:57 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:03:57 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:04:07 ==================================================
+2026/02/17 16:04:07 Found Node: manager-0, Online true
+2026/02/17 16:04:07 Found Node: worker-0, Online true
+2026/02/17 16:04:07 Found Node: worker-1, Online true
+2026/02/17 16:04:07 Found Node: worker-2, Online true
+2026/02/17 16:04:07 Found Node: worker-3, Online true
+2026/02/17 16:04:07 Found Node: worker-4, Online true
+2026/02/17 16:04:07 Found Node: worker-5, Online true
+2026/02/17 16:04:07 Found Node: worker-6, Online true
+2026/02/17 16:04:07 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:04:07 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:04:07 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:04:07 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:04:07 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:04:07 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:04:07 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:04:07 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:04:07 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:04:07 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:04:07 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:04:07 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:04:07 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:04:07 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:04:07 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:04:07 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:04:17 ==================================================
+2026/02/17 16:04:17 Found Node: manager-0, Online true
+2026/02/17 16:04:17 Found Node: worker-0, Online true
+2026/02/17 16:04:17 Found Node: worker-1, Online true
+2026/02/17 16:04:17 Found Node: worker-2, Online true
+2026/02/17 16:04:17 Found Node: worker-3, Online true
+2026/02/17 16:04:17 Found Node: worker-4, Online true
+2026/02/17 16:04:17 Found Node: worker-5, Online true
+2026/02/17 16:04:17 Found Node: worker-6, Online true
+2026/02/17 16:04:17 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:04:17 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:04:17 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:04:17 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:04:17 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:04:17 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:04:17 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:04:17 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:04:17 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:04:17 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:04:17 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:04:17 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:04:17 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:04:17 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:04:17 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:04:17 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:04:27 ==================================================
+2026/02/17 16:04:27 Found Node: manager-0, Online true
+2026/02/17 16:04:27 Found Node: worker-0, Online true
+2026/02/17 16:04:27 Found Node: worker-1, Online false
+2026/02/17 16:04:27 Found Node: worker-2, Online true
+2026/02/17 16:04:27 Found Node: worker-3, Online true
+2026/02/17 16:04:27 Found Node: worker-4, Online true
+2026/02/17 16:04:27 Found Node: worker-5, Online true
+2026/02/17 16:04:27 Found Node: worker-6, Online true
+2026/02/17 16:04:27 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:04:27 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:04:27 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:04:27 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:04:27 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:04:27 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:04:27 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:04:27 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:04:27 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:04:27 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:04:27 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:04:27 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:04:27 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:04:27 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:04:27 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:04:27 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:04:37 ==================================================
+2026/02/17 16:04:37 Found Node: manager-0, Online true
+2026/02/17 16:04:37 Found Node: worker-0, Online true
+2026/02/17 16:04:37 Found Node: worker-1, Online false
+2026/02/17 16:04:37 Found Node: worker-2, Online true
+2026/02/17 16:04:37 Found Node: worker-3, Online true
+2026/02/17 16:04:37 Found Node: worker-4, Online true
+2026/02/17 16:04:37 Found Node: worker-5, Online true
+2026/02/17 16:04:37 Found Node: worker-6, Online true
+2026/02/17 16:04:37 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:04:37 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:04:37 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:04:37 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:04:37 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:04:37 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:04:37 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:04:37 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:04:37 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Pending, NodeName: worker-2
+2026/02/17 16:04:37 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:04:37 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:04:37 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:04:37 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:04:37 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:04:37 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:04:37 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:04:37 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:04:37 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:04:47 ==================================================
+2026/02/17 16:04:47 Found Node: manager-0, Online true
+2026/02/17 16:04:47 Found Node: worker-0, Online true
+2026/02/17 16:04:47 Found Node: worker-1, Online false
+2026/02/17 16:04:47 Found Node: worker-2, Online true
+2026/02/17 16:04:47 Found Node: worker-3, Online true
+2026/02/17 16:04:47 Found Node: worker-4, Online true
+2026/02/17 16:04:47 Found Node: worker-5, Online true
+2026/02/17 16:04:47 Found Node: worker-6, Online true
+2026/02/17 16:04:47 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:04:47 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:04:47 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:04:47 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:04:47 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:04:47 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:04:47 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:04:47 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:04:47 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:04:47 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:04:47 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:04:47 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:04:47 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:04:47 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:04:47 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:04:47 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:04:47 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:04:47 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:04:57 ==================================================
+2026/02/17 16:04:57 Found Node: manager-0, Online true
+2026/02/17 16:04:57 Found Node: worker-0, Online true
+2026/02/17 16:04:57 Found Node: worker-1, Online false
+2026/02/17 16:04:57 Found Node: worker-2, Online true
+2026/02/17 16:04:57 Found Node: worker-3, Online true
+2026/02/17 16:04:57 Found Node: worker-4, Online true
+2026/02/17 16:04:57 Found Node: worker-5, Online true
+2026/02/17 16:04:57 Found Node: worker-6, Online true
+2026/02/17 16:04:57 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:04:57 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:04:57 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:04:57 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:04:57 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:04:57 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Running, NodeName: worker-3
+2026/02/17 16:04:57 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:04:57 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:04:57 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:04:57 Found Pod: app-2-server-6894b65f7f-474zw, Status: Running, NodeName: manager-0
+2026/02/17 16:04:57 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:04:57 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:04:57 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:04:57 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:04:57 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:04:57 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:04:57 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:04:57 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:05:07 ==================================================
+2026/02/17 16:05:07 Found Node: manager-0, Online true
+2026/02/17 16:05:07 Found Node: worker-0, Online true
+2026/02/17 16:05:07 Found Node: worker-1, Online false
+2026/02/17 16:05:07 Found Node: worker-2, Online true
+2026/02/17 16:05:07 Found Node: worker-3, Online true
+2026/02/17 16:05:07 Found Node: worker-4, Online true
+2026/02/17 16:05:07 Found Node: worker-5, Online true
+2026/02/17 16:05:07 Found Node: worker-6, Online true
+2026/02/17 16:05:07 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:05:07 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:05:07 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:05:07 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:05:07 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:05:07 Found Pod: app-2-client-77cb77bfbb-6jpjt, Status: Failed, NodeName: worker-3
+2026/02/17 16:05:07 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:05:07 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:05:07 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:05:07 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:05:07 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:05:07 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:05:07 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:05:07 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:05:07 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:05:07 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:05:07 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:05:17 ==================================================
+2026/02/17 16:05:17 Found Node: manager-0, Online true
+2026/02/17 16:05:17 Found Node: worker-0, Online true
+2026/02/17 16:05:17 Found Node: worker-1, Online true
+2026/02/17 16:05:17 Found Node: worker-2, Online true
+2026/02/17 16:05:17 Found Node: worker-3, Online true
+2026/02/17 16:05:17 Found Node: worker-4, Online true
+2026/02/17 16:05:17 Found Node: worker-5, Online true
+2026/02/17 16:05:17 Found Node: worker-6, Online true
+2026/02/17 16:05:17 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:05:17 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:05:17 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:05:17 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:05:17 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:05:17 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:05:17 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:05:17 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:05:17 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:05:17 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:05:17 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:05:17 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:05:17 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:05:17 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:05:17 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:05:17 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:05:27 ==================================================
+2026/02/17 16:05:27 Found Node: manager-0, Online true
+2026/02/17 16:05:27 Found Node: worker-0, Online true
+2026/02/17 16:05:27 Found Node: worker-1, Online true
+2026/02/17 16:05:27 Found Node: worker-2, Online true
+2026/02/17 16:05:27 Found Node: worker-3, Online true
+2026/02/17 16:05:27 Found Node: worker-4, Online true
+2026/02/17 16:05:27 Found Node: worker-5, Online true
+2026/02/17 16:05:27 Found Node: worker-6, Online true
+2026/02/17 16:05:27 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:05:27 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:05:27 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:05:27 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:05:27 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:05:27 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:05:27 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:05:27 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:05:27 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:05:27 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:05:27 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:05:27 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:05:27 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:05:27 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:05:27 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:05:27 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:05:37 ==================================================
+2026/02/17 16:05:37 Found Node: manager-0, Online true
+2026/02/17 16:05:37 Found Node: worker-0, Online true
+2026/02/17 16:05:37 Found Node: worker-1, Online true
+2026/02/17 16:05:37 Found Node: worker-2, Online true
+2026/02/17 16:05:37 Found Node: worker-3, Online true
+2026/02/17 16:05:37 Found Node: worker-4, Online true
+2026/02/17 16:05:37 Found Node: worker-5, Online true
+2026/02/17 16:05:37 Found Node: worker-6, Online true
+2026/02/17 16:05:37 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:05:37 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:05:37 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:05:37 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:05:37 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:05:37 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:05:37 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:05:37 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:05:37 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:05:37 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:05:37 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:05:37 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:05:37 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:05:37 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:05:37 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:05:37 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:05:47 ==================================================
+2026/02/17 16:05:47 Found Node: manager-0, Online true
+2026/02/17 16:05:47 Found Node: worker-0, Online true
+2026/02/17 16:05:47 Found Node: worker-1, Online true
+2026/02/17 16:05:47 Found Node: worker-2, Online true
+2026/02/17 16:05:47 Found Node: worker-3, Online true
+2026/02/17 16:05:47 Found Node: worker-4, Online true
+2026/02/17 16:05:47 Found Node: worker-5, Online true
+2026/02/17 16:05:47 Found Node: worker-6, Online true
+2026/02/17 16:05:47 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:05:47 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:05:47 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:05:47 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:05:47 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:05:47 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:05:47 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:05:47 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:05:47 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:05:47 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:05:47 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:05:47 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:05:47 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:05:47 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:05:47 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:05:47 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:05:57 ==================================================
+2026/02/17 16:05:57 Found Node: manager-0, Online true
+2026/02/17 16:05:57 Found Node: worker-0, Online true
+2026/02/17 16:05:57 Found Node: worker-1, Online true
+2026/02/17 16:05:57 Found Node: worker-2, Online true
+2026/02/17 16:05:57 Found Node: worker-3, Online true
+2026/02/17 16:05:57 Found Node: worker-4, Online true
+2026/02/17 16:05:57 Found Node: worker-5, Online true
+2026/02/17 16:05:57 Found Node: worker-6, Online true
+2026/02/17 16:05:57 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:05:57 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:05:57 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:05:57 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:05:57 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:05:57 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:05:57 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:05:57 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:05:57 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:05:57 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:05:57 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:05:57 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:05:57 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:05:57 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:05:57 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:05:57 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:06:07 ==================================================
+2026/02/17 16:06:07 Found Node: manager-0, Online true
+2026/02/17 16:06:07 Found Node: worker-0, Online true
+2026/02/17 16:06:07 Found Node: worker-1, Online true
+2026/02/17 16:06:07 Found Node: worker-2, Online true
+2026/02/17 16:06:07 Found Node: worker-3, Online true
+2026/02/17 16:06:07 Found Node: worker-4, Online true
+2026/02/17 16:06:07 Found Node: worker-5, Online true
+2026/02/17 16:06:07 Found Node: worker-6, Online true
+2026/02/17 16:06:07 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:06:07 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:06:07 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:06:07 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:06:07 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:06:07 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:06:07 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:06:07 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:06:07 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:06:07 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:06:07 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:06:07 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:06:07 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:06:07 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:06:07 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:06:07 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:06:17 ==================================================
+2026/02/17 16:06:17 Found Node: manager-0, Online true
+2026/02/17 16:06:17 Found Node: worker-0, Online true
+2026/02/17 16:06:17 Found Node: worker-1, Online true
+2026/02/17 16:06:17 Found Node: worker-2, Online true
+2026/02/17 16:06:17 Found Node: worker-3, Online true
+2026/02/17 16:06:17 Found Node: worker-4, Online true
+2026/02/17 16:06:17 Found Node: worker-5, Online true
+2026/02/17 16:06:17 Found Node: worker-6, Online true
+2026/02/17 16:06:17 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:06:17 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:06:17 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:06:17 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:06:17 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:06:17 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:06:17 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:06:17 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:06:17 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:06:17 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:06:17 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:06:17 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:06:17 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:06:17 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:06:17 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:06:17 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:06:27 ==================================================
+2026/02/17 16:06:27 Found Node: manager-0, Online true
+2026/02/17 16:06:27 Found Node: worker-0, Online true
+2026/02/17 16:06:27 Found Node: worker-1, Online true
+2026/02/17 16:06:27 Found Node: worker-2, Online true
+2026/02/17 16:06:27 Found Node: worker-3, Online true
+2026/02/17 16:06:27 Found Node: worker-4, Online true
+2026/02/17 16:06:27 Found Node: worker-5, Online true
+2026/02/17 16:06:27 Found Node: worker-6, Online true
+2026/02/17 16:06:27 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:06:27 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:06:27 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:06:27 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:06:27 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:06:27 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:06:27 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:06:27 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:06:27 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:06:27 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:06:27 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:06:27 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:06:27 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:06:27 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:06:27 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:06:27 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:06:37 ==================================================
+2026/02/17 16:06:37 Found Node: manager-0, Online true
+2026/02/17 16:06:37 Found Node: worker-0, Online true
+2026/02/17 16:06:37 Found Node: worker-1, Online true
+2026/02/17 16:06:37 Found Node: worker-2, Online true
+2026/02/17 16:06:37 Found Node: worker-3, Online true
+2026/02/17 16:06:37 Found Node: worker-4, Online true
+2026/02/17 16:06:37 Found Node: worker-5, Online true
+2026/02/17 16:06:37 Found Node: worker-6, Online true
+2026/02/17 16:06:37 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:06:37 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:06:37 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:06:37 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:06:37 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:06:37 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:06:37 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:06:37 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:06:37 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:06:37 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:06:37 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:06:37 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:06:37 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:06:37 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:06:37 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:06:37 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:06:47 ==================================================
+2026/02/17 16:06:47 Found Node: manager-0, Online true
+2026/02/17 16:06:47 Found Node: worker-0, Online true
+2026/02/17 16:06:47 Found Node: worker-1, Online true
+2026/02/17 16:06:47 Found Node: worker-2, Online true
+2026/02/17 16:06:47 Found Node: worker-3, Online true
+2026/02/17 16:06:47 Found Node: worker-4, Online true
+2026/02/17 16:06:47 Found Node: worker-5, Online true
+2026/02/17 16:06:47 Found Node: worker-6, Online true
+2026/02/17 16:06:47 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:06:47 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:06:47 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:06:47 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:06:47 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:06:47 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:06:47 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:06:47 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:06:47 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:06:47 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:06:47 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:06:47 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:06:47 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:06:47 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:06:47 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:06:47 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:06:57 ==================================================
+2026/02/17 16:06:57 Found Node: manager-0, Online true
+2026/02/17 16:06:57 Found Node: worker-0, Online true
+2026/02/17 16:06:57 Found Node: worker-1, Online true
+2026/02/17 16:06:57 Found Node: worker-2, Online true
+2026/02/17 16:06:57 Found Node: worker-3, Online true
+2026/02/17 16:06:57 Found Node: worker-4, Online true
+2026/02/17 16:06:57 Found Node: worker-5, Online true
+2026/02/17 16:06:57 Found Node: worker-6, Online true
+2026/02/17 16:06:57 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:06:57 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:06:57 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:06:57 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:06:57 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:06:57 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:06:57 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:06:57 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:06:57 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:06:57 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:06:57 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:06:57 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:06:57 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:06:57 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:06:57 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:06:57 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:07:07 ==================================================
+2026/02/17 16:07:07 Found Node: manager-0, Online true
+2026/02/17 16:07:07 Found Node: worker-0, Online true
+2026/02/17 16:07:07 Found Node: worker-1, Online true
+2026/02/17 16:07:07 Found Node: worker-2, Online true
+2026/02/17 16:07:07 Found Node: worker-3, Online true
+2026/02/17 16:07:07 Found Node: worker-4, Online true
+2026/02/17 16:07:07 Found Node: worker-5, Online true
+2026/02/17 16:07:07 Found Node: worker-6, Online true
+2026/02/17 16:07:07 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:07:07 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:07:07 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:07:07 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:07:07 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:07:07 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:07:07 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:07:07 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:07:07 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:07:07 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:07:07 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:07:07 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:07:07 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:07:07 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:07:07 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:07:07 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:07:17 ==================================================
+2026/02/17 16:07:17 Found Node: manager-0, Online true
+2026/02/17 16:07:17 Found Node: worker-0, Online true
+2026/02/17 16:07:17 Found Node: worker-1, Online true
+2026/02/17 16:07:17 Found Node: worker-2, Online true
+2026/02/17 16:07:17 Found Node: worker-3, Online true
+2026/02/17 16:07:17 Found Node: worker-4, Online true
+2026/02/17 16:07:17 Found Node: worker-5, Online true
+2026/02/17 16:07:17 Found Node: worker-6, Online true
+2026/02/17 16:07:17 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:07:17 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:07:17 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:07:17 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:07:17 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:07:17 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:07:17 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:07:17 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:07:17 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:07:17 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:07:17 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:07:17 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:07:17 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:07:17 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:07:17 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:07:17 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:07:27 ==================================================
+2026/02/17 16:07:27 Found Node: manager-0, Online true
+2026/02/17 16:07:27 Found Node: worker-0, Online true
+2026/02/17 16:07:27 Found Node: worker-1, Online false
+2026/02/17 16:07:27 Found Node: worker-2, Online true
+2026/02/17 16:07:27 Found Node: worker-3, Online true
+2026/02/17 16:07:27 Found Node: worker-4, Online true
+2026/02/17 16:07:27 Found Node: worker-5, Online true
+2026/02/17 16:07:27 Found Node: worker-6, Online true
+2026/02/17 16:07:27 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:07:27 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:07:27 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:07:27 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:07:27 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:07:27 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:07:27 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:07:27 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:07:27 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:07:27 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:07:27 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:07:27 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:07:27 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:07:27 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:07:27 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:07:27 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:07:37 ==================================================
+2026/02/17 16:07:37 Found Node: manager-0, Online true
+2026/02/17 16:07:37 Found Node: worker-0, Online true
+2026/02/17 16:07:37 Found Node: worker-1, Online false
+2026/02/17 16:07:37 Found Node: worker-2, Online true
+2026/02/17 16:07:37 Found Node: worker-3, Online true
+2026/02/17 16:07:37 Found Node: worker-4, Online true
+2026/02/17 16:07:37 Found Node: worker-5, Online true
+2026/02/17 16:07:37 Found Node: worker-6, Online true
+2026/02/17 16:07:37 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:07:37 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:07:37 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:07:37 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:07:37 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:07:37 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:07:37 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:07:37 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:07:37 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:07:37 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:07:37 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:07:37 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:07:37 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:07:37 Found Pod: app-4-client-6f74d6fff4-gv8w4, Status: Pending, NodeName: manager-0
+2026/02/17 16:07:37 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:07:37 Found Pod: app-4-server-84fbd44ff9-h4nr2, Status: Pending, NodeName: worker-3
+2026/02/17 16:07:37 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:07:37 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:07:47 ==================================================
+2026/02/17 16:07:47 Found Node: manager-0, Online true
+2026/02/17 16:07:47 Found Node: worker-0, Online true
+2026/02/17 16:07:47 Found Node: worker-1, Online false
+2026/02/17 16:07:47 Found Node: worker-2, Online true
+2026/02/17 16:07:47 Found Node: worker-3, Online true
+2026/02/17 16:07:47 Found Node: worker-4, Online true
+2026/02/17 16:07:47 Found Node: worker-5, Online true
+2026/02/17 16:07:47 Found Node: worker-6, Online true
+2026/02/17 16:07:47 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:07:47 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:07:47 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:07:47 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:07:47 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:07:47 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:07:47 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:07:47 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:07:47 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:07:47 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:07:47 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:07:47 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:07:47 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:07:47 Found Pod: app-4-client-6f74d6fff4-gv8w4, Status: Running, NodeName: manager-0
+2026/02/17 16:07:47 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:07:47 Found Pod: app-4-server-84fbd44ff9-h4nr2, Status: Running, NodeName: worker-3
+2026/02/17 16:07:47 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:07:47 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:07:57 ==================================================
+2026/02/17 16:07:57 Found Node: manager-0, Online true
+2026/02/17 16:07:57 Found Node: worker-0, Online true
+2026/02/17 16:07:57 Found Node: worker-1, Online true
+2026/02/17 16:07:57 Found Node: worker-2, Online true
+2026/02/17 16:07:57 Found Node: worker-3, Online true
+2026/02/17 16:07:57 Found Node: worker-4, Online true
+2026/02/17 16:07:57 Found Node: worker-5, Online true
+2026/02/17 16:07:57 Found Node: worker-6, Online true
+2026/02/17 16:07:57 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:07:57 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:07:57 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:07:57 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:07:57 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:07:57 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:07:57 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:07:57 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:07:57 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:07:57 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:07:57 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:07:57 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:07:57 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:07:57 Found Pod: app-4-client-6f74d6fff4-gv8w4, Status: Running, NodeName: manager-0
+2026/02/17 16:07:57 Found Pod: app-4-server-84fbd44ff9-2mj95, Status: Running, NodeName: manager-0
+2026/02/17 16:07:57 Found Pod: app-4-server-84fbd44ff9-h4nr2, Status: Running, NodeName: worker-3
+2026/02/17 16:07:57 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:07:57 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:08:07 ==================================================
+2026/02/17 16:08:07 Found Node: manager-0, Online true
+2026/02/17 16:08:07 Found Node: worker-0, Online true
+2026/02/17 16:08:07 Found Node: worker-1, Online true
+2026/02/17 16:08:07 Found Node: worker-2, Online true
+2026/02/17 16:08:07 Found Node: worker-3, Online true
+2026/02/17 16:08:07 Found Node: worker-4, Online true
+2026/02/17 16:08:07 Found Node: worker-5, Online true
+2026/02/17 16:08:07 Found Node: worker-6, Online true
+2026/02/17 16:08:07 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:08:07 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:08:07 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:08:07 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:08:07 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:08:07 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:08:07 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:08:07 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:08:07 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:08:07 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:08:07 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:08:07 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:08:07 Found Pod: app-4-client-6f74d6fff4-bnlkg, Status: Running, NodeName: worker-4
+2026/02/17 16:08:07 Found Pod: app-4-client-6f74d6fff4-gv8w4, Status: Running, NodeName: manager-0
+2026/02/17 16:08:07 Found Pod: app-4-server-84fbd44ff9-h4nr2, Status: Running, NodeName: worker-3
+2026/02/17 16:08:07 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:08:07 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:08:17 ==================================================
+2026/02/17 16:08:17 Found Node: manager-0, Online true
+2026/02/17 16:08:17 Found Node: worker-0, Online true
+2026/02/17 16:08:17 Found Node: worker-1, Online true
+2026/02/17 16:08:17 Found Node: worker-2, Online true
+2026/02/17 16:08:17 Found Node: worker-3, Online true
+2026/02/17 16:08:17 Found Node: worker-4, Online true
+2026/02/17 16:08:17 Found Node: worker-5, Online true
+2026/02/17 16:08:17 Found Node: worker-6, Online true
+2026/02/17 16:08:17 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:08:17 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:08:17 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:08:17 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:08:17 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:08:17 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:08:17 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:08:17 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:08:17 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:08:17 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:08:17 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:08:17 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:08:17 Found Pod: app-4-client-6f74d6fff4-gv8w4, Status: Running, NodeName: manager-0
+2026/02/17 16:08:17 Found Pod: app-4-server-84fbd44ff9-h4nr2, Status: Running, NodeName: worker-3
+2026/02/17 16:08:17 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:08:17 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
+2026/02/17 16:08:27 ==================================================
+2026/02/17 16:08:27 Found Node: manager-0, Online true
+2026/02/17 16:08:27 Found Node: worker-0, Online true
+2026/02/17 16:08:27 Found Node: worker-1, Online true
+2026/02/17 16:08:27 Found Node: worker-2, Online true
+2026/02/17 16:08:27 Found Node: worker-3, Online true
+2026/02/17 16:08:27 Found Node: worker-4, Online true
+2026/02/17 16:08:27 Found Node: worker-5, Online true
+2026/02/17 16:08:27 Found Node: worker-6, Online true
+2026/02/17 16:08:27 Found Pod: apiserver-668f94c6b9-k8lrl, Status: Running, NodeName: manager-0
+2026/02/17 16:08:27 Found Pod: app-1-client-6b8b954b54-pkcq5, Status: Running, NodeName: worker-5
+2026/02/17 16:08:27 Found Pod: app-1-client-6b8b954b54-qnj9n, Status: Running, NodeName: worker-1
+2026/02/17 16:08:27 Found Pod: app-1-client-6b8b954b54-rm9mr, Status: Running, NodeName: manager-0
+2026/02/17 16:08:27 Found Pod: app-1-server-f888bc44f-7dhrt, Status: Running, NodeName: manager-0
+2026/02/17 16:08:27 Found Pod: app-2-client-77cb77bfbb-sh9q4, Status: Running, NodeName: manager-0
+2026/02/17 16:08:27 Found Pod: app-2-client-77cb77bfbb-t4l7s, Status: Running, NodeName: worker-5
+2026/02/17 16:08:27 Found Pod: app-2-client-77cb77bfbb-z86t9, Status: Running, NodeName: worker-2
+2026/02/17 16:08:27 Found Pod: app-2-server-6894b65f7f-7qqjb, Status: Running, NodeName: manager-0
+2026/02/17 16:08:27 Found Pod: app-3-client-9557668d6-6rkqh, Status: Running, NodeName: manager-0
+2026/02/17 16:08:27 Found Pod: app-3-client-9557668d6-qvt4k, Status: Running, NodeName: worker-0
+2026/02/17 16:08:27 Found Pod: app-3-server-6cd8b4d969-lpsc8, Status: Running, NodeName: worker-6
+2026/02/17 16:08:27 Found Pod: app-4-client-6f74d6fff4-gv8w4, Status: Running, NodeName: manager-0
+2026/02/17 16:08:27 Found Pod: app-4-server-84fbd44ff9-h4nr2, Status: Running, NodeName: worker-3
+2026/02/17 16:08:27 Found Pod: app-5-client-6ff46bd46-z2nm7, Status: Running, NodeName: manager-0
+2026/02/17 16:08:27 Found Pod: app-5-server-7f75bf964f-8m45d, Status: Running, NodeName: manager-0
