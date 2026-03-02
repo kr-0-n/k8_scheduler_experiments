@@ -1,4 +1,4 @@
-# Experiment 3
+# Experiment 4
 
 The fourth experiment is similar to the third but tries a more realistic scenario. We are running two TETRA cells, one with TEDS (500Kbits) and one without, resulting in 28Kbit. We are also running higher latencies on the links. This will incentivise the scheduler to colocate pods on the same host. To accomodate the lower throughput in the second TETRA cell, we also reduced the communication requirements
 
