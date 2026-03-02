@@ -1,0 +1,30 @@
+TIME: 1772142285
+HPING app-2-server (eth0 10.43.3.164): S set, 40 headers + 0 data bytes
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+TIME: 1772142314
+HPING app-2-server (eth0 10.43.3.164): S set, 40 headers + 0 data bytes
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+ICMP Port Unreachable from ip=10.42.0.1 get hostname...               name=10.42.0.1
+TIME: 1772142345
+Connecting to host app-2-server, port 5004
+[  5] local 10.42.0.12 port 39408 connected to 10.43.3.164 port 5004
+Connecting to host app-2-server, port 5005
+[  5] local 10.42.0.12 port 56270 connected to 10.43.3.164 port 5005
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
