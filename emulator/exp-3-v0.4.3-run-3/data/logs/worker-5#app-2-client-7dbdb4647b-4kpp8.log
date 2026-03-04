@@ -1,0 +1,61 @@
+TIME: 1772530989
+Connecting to host app-2-server, port 5004
+[  5] local 10.42.2.4 port 52144 connected to 10.43.102.134 port 5004
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   34.1 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   36.9 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    0   38.2 KBytes       
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec    0   19.1 KBytes       
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    0   34.1 KBytes       
+[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec    0   46.4 KBytes       
+[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec    0   46.4 KBytes       
+HPING app-2-server (eth0 10.43.102.134): S set, 40 headers + 0 data bytes
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+TIME: 1772531035
+HPING app-2-server (eth0 10.43.102.134): S set, 40 headers + 0 data bytes
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+ICMP Port Unreachable from ip=10.42.2.1 get hostname...               name=10.42.2.1
+TIME: 1772531062
+Connecting to host app-2-server, port 5002
+[  5] local 10.42.2.4 port 45416 connected to 10.43.102.134 port 5002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   34.1 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    0   35.5 KBytes       
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec    0   39.6 KBytes       
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    0   46.4 KBytes       
+[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec    0   51.9 KBytes       
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec    0   61.4 KBytes       
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec    0   71.0 KBytes       
+[  5]   8.00-9.00   sec  0.00 Bytes  0.00 bits/sec    0   86.0 KBytes       
+[  5]   9.00-10.00  sec  0.00 Bytes  0.00 bits/sec    0   99.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec   384 KBytes   315 Kbits/sec    0             sender
+[  5]   0.00-13.82  sec   256 KBytes   152 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-2-server (eth0 10.43.102.134): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.102.134 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=223.7 ms
+len=44 ip=10.43.102.134 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=335.5 ms
+len=44 ip=10.43.102.134 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=443.2 ms
+len=44 ip=10.43.102.134 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=219.0 ms
+len=44 ip=10.43.102.134 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=254.6 ms
+len=44 ip=10.43.102.134 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=262.3 ms
+len=44 ip=10.43.102.134 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=222.1 ms
+len=44 ip=10.43.102.134 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=225.8 ms
+len=44 ip=10.43.102.134 ttl=62 DF id=0 sport=5001 flags=SA seq=8 win=64860 rtt=329.6 ms
+len=44 ip=10.43.102.134 ttl=62 DF id=0 sport=5001 flags=SA seq=9 win=64860 rtt=349.4 ms
+TIME: 1772531093
