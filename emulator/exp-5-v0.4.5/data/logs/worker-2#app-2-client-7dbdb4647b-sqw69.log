@@ -1,0 +1,56 @@
+TIME: 1772796873
+Connecting to host app-2-server, port 5003
+[  5] local 10.42.6.6 port 59068 connected to 10.43.134.101 port 5003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    1   32.8 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    1   32.8 KBytes       
+Connecting to host app-2-server, port 5004
+[  5] local 10.42.6.6 port 34502 connected to 10.43.134.101 port 5004
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+Connecting to host app-2-server, port 5005
+[  5] local 10.42.6.6 port 38668 connected to 10.43.134.101 port 5005
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+Connecting to host app-2-server, port 5006
+[  5] local 10.42.6.6 port 50732 connected to 10.43.134.101 port 5006
+Connecting to host app-2-server, port 5007
+[  5] local 10.42.6.6 port 49328 connected to 10.43.134.101 port 5007
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   27.3 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec    0   27.3 KBytes       
+Connecting to host app-2-server, port 5008
+[  5] local 10.42.6.6 port 49616 connected to 10.43.134.101 port 5008
+Connecting to host app-2-server, port 5009
+[  5] local 10.42.6.6 port 46808 connected to 10.43.134.101 port 5009
+Connecting to host app-2-server, port 5010
+[  5] local 10.42.6.6 port 49750 connected to 10.43.134.101 port 5010
+Connecting to host app-2-server, port 5011
+[  5] local 10.42.6.6 port 37596 connected to 10.43.134.101 port 5011
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+Connecting to host app-2-server, port 5012
+[  5] local 10.42.6.6 port 60598 connected to 10.43.134.101 port 5012
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec    0   32.8 KBytes       
+HPING app-2-server (eth0 10.43.134.101): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.134.101 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=251.6 ms
+len=44 ip=10.43.134.101 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=247.3 ms
+len=44 ip=10.43.134.101 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=251.0 ms
+len=44 ip=10.43.134.101 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=254.7 ms
+len=44 ip=10.43.134.101 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=254.4 ms
+len=44 ip=10.43.134.101 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=254.0 ms
+len=44 ip=10.43.134.101 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=249.5 ms
+len=44 ip=10.43.134.101 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=253.2 ms
+len=44 ip=10.43.134.101 ttl=62 DF id=0 sport=5001 flags=SA seq=8 win=64860 rtt=624.9 ms
+len=44 ip=10.43.134.101 ttl=62 DF id=0 sport=5001 flags=SA seq=9 win=64860 rtt=732.6 ms
