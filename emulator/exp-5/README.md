@@ -14,7 +14,7 @@ The fifth experiment is a simplification of the previous experiments. Less apps 
 
 ### Preparation
 
-Set up the experiment as depicted in the setup. Commit all applications to the cluster. Once all applications have been 'installed', start the scheduler and let it bind them to nodes. Once they are scheduled, proceed.
+Set up the experiment as depicted in the setup. First, start the scheduler, then install app1. Wait for it to be scheduled, then continue with app2.
 
 ### Execution
 
