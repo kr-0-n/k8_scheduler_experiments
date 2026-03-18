@@ -1,0 +1,146 @@
+strict digraph {
+
+	K="0.6";
+
+	layout="fdp";
+
+	overlap="false";
+
+	splines="line";
+
+
+	"worker-6" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-6" -> "manager-0" [ label="5ms 500000.00mbps", latency="5", throughput="500000.00", type="connection",  weight=0 ];
+
+	"worker-6" -> "worker-0" [ label="5ms 500000.00mbps", latency="5", throughput="500000.00", type="connection",  weight=0 ];
+
+	"worker-6" -> "worker-5" [ label="5ms 500000.00mbps", latency="5", throughput="500000.00", type="connection",  weight=0 ];
+
+	"app-1-server-64cbb44745-xgfjr" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-server-64cbb44745-xgfjr" -> "worker-2" [ type="assign",  weight=0 ];
+
+	"app-2-client-c7865f8d-77f7m" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-2-client-c7865f8d-77f7m" -> "worker-5" [ type="assign",  weight=0 ];
+
+	"app-2-client-c7865f8d-77f7m" -> "app-2-server-554db7db4c-8446k" [ color="green", label="5ms 200000.00mbps", latency="5", throughput="200000.00", type="networkComRequirement",  weight=0 ];
+
+	"app-1-client-5c7976bd6-sb95w" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-client-5c7976bd6-sb95w" -> "worker-2" [ type="assign",  weight=0 ];
+
+	"app-1-client-5c7976bd6-sb95w" -> "app-1-server-64cbb44745-xgfjr" [ color="green", label="5ms 30000.00mbps", latency="5", throughput="30000.00", type="networkComRequirement",  weight=0 ];
+
+	"worker-5" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-5" -> "worker-0" [ label="5ms 500000.00mbps", latency="5", throughput="500000.00", type="connection",  weight=0 ];
+
+	"worker-5" -> "worker-6" [ label="5ms 500000.00mbps", latency="5", throughput="500000.00", type="connection",  weight=0 ];
+
+	"worker-5" -> "manager-0" [ label="5ms 500000.00mbps", latency="5", throughput="500000.00", type="connection",  weight=0 ];
+
+	"app-1-client-5c7976bd6-69vzt" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-client-5c7976bd6-69vzt" -> "worker-3" [ type="assign",  weight=0 ];
+
+	"app-1-client-5c7976bd6-69vzt" -> "app-1-server-64cbb44745-xgfjr" [ color="green", label="5ms 30000.00mbps", latency="5", throughput="30000.00", type="networkComRequirement",  weight=0 ];
+
+	"app-1-client-5c7976bd6-fbj6v" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-client-5c7976bd6-fbj6v" -> "worker-3" [ type="assign",  weight=0 ];
+
+	"app-1-client-5c7976bd6-fbj6v" -> "app-1-server-64cbb44745-xgfjr" [ color="green", label="5ms 30000.00mbps", latency="5", throughput="30000.00", type="networkComRequirement",  weight=0 ];
+
+	"worker-4" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-4" -> "worker-3" [ label="20ms 80000.00mbps", latency="20", throughput="80000.00", type="connection",  weight=0 ];
+
+	"worker-4" -> "worker-1" [ label="20ms 80000.00mbps", latency="20", throughput="80000.00", type="connection",  weight=0 ];
+
+	"worker-4" -> "worker-2" [ label="20ms 80000.00mbps", latency="20", throughput="80000.00", type="connection",  weight=0 ];
+
+	"app-1-client-5c7976bd6-h9vm5" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-client-5c7976bd6-h9vm5" -> "worker-2" [ type="assign",  weight=0 ];
+
+	"app-1-client-5c7976bd6-h9vm5" -> "app-1-server-64cbb44745-xgfjr" [ color="green", label="5ms 30000.00mbps", latency="5", throughput="30000.00", type="networkComRequirement",  weight=0 ];
+
+	"apiserver-668f94c6b9-wzcb5" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"apiserver-668f94c6b9-wzcb5" -> "manager-0" [ type="assign",  weight=0 ];
+
+	"manager-0" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"manager-0" -> "worker-6" [ label="5ms 500000.00mbps", latency="5", throughput="500000.00", type="connection",  weight=0 ];
+
+	"manager-0" -> "worker-0" [ label="5ms 500000.00mbps", latency="5", throughput="500000.00", type="connection",  weight=0 ];
+
+	"manager-0" -> "worker-5" [ label="5ms 500000.00mbps", latency="5", throughput="500000.00", type="connection",  weight=0 ];
+
+	"app-2-client-c7865f8d-z9z69" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-2-client-c7865f8d-z9z69" -> "worker-6" [ type="assign",  weight=0 ];
+
+	"app-2-client-c7865f8d-z9z69" -> "app-2-server-554db7db4c-8446k" [ color="green", label="5ms 200000.00mbps", latency="5", throughput="200000.00", type="networkComRequirement",  weight=0 ];
+
+	"app-2-server-554db7db4c-8446k" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-2-server-554db7db4c-8446k" -> "manager-0" [ type="assign",  weight=0 ];
+
+	"worker-0" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-0" -> "worker-1" [ label="250ms 550000.00mbps", latency="250", throughput="550000.00", type="connection",  weight=0 ];
+
+	"worker-0" -> "worker-5" [ label="5ms 500000.00mbps", latency="5", throughput="500000.00", type="connection",  weight=0 ];
+
+	"worker-0" -> "worker-6" [ label="5ms 500000.00mbps", latency="5", throughput="500000.00", type="connection",  weight=0 ];
+
+	"worker-0" -> "manager-0" [ label="5ms 500000.00mbps", latency="5", throughput="500000.00", type="connection",  weight=0 ];
+
+	"worker-2" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-2" -> "worker-3" [ label="10ms 80000.00mbps", latency="10", throughput="80000.00", type="connection",  weight=0 ];
+
+	"worker-2" -> "worker-4" [ label="20ms 80000.00mbps", latency="20", throughput="80000.00", type="connection",  weight=0 ];
+
+	"worker-2" -> "worker-1" [ label="10ms 80000.00mbps", latency="10", throughput="80000.00", type="connection",  weight=0 ];
+
+	"app-1-client-5c7976bd6-ml2ps" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-client-5c7976bd6-ml2ps" -> "app-1-server-64cbb44745-xgfjr" [ color="green", label="5ms 30000.00mbps", latency="5", throughput="30000.00", type="networkComRequirement",  weight=0 ];
+
+	"app-1-client-5c7976bd6-ml2ps" -> "worker-1" [ type="assign",  weight=0 ];
+
+	"worker-1" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-1" -> "worker-3" [ label="10ms 80000.00mbps", latency="10", throughput="80000.00", type="connection",  weight=0 ];
+
+	"worker-1" -> "worker-4" [ label="20ms 80000.00mbps", latency="20", throughput="80000.00", type="connection",  weight=0 ];
+
+	"worker-1" -> "worker-0" [ label="250ms 550000.00mbps", latency="250", throughput="550000.00", type="connection",  weight=0 ];
+
+	"worker-1" -> "worker-2" [ label="10ms 80000.00mbps", latency="10", throughput="80000.00", type="connection",  weight=0 ];
+
+	"worker-3" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"worker-3" -> "worker-1" [ label="10ms 80000.00mbps", latency="10", throughput="80000.00", type="connection",  weight=0 ];
+
+	"worker-3" -> "worker-2" [ label="10ms 80000.00mbps", latency="10", throughput="80000.00", type="connection",  weight=0 ];
+
+	"worker-3" -> "worker-4" [ label="20ms 80000.00mbps", latency="20", throughput="80000.00", type="connection",  weight=0 ];
+
+	"app-2-client-c7865f8d-79n7g" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-2-client-c7865f8d-79n7g" -> "worker-0" [ type="assign",  weight=0 ];
+
+	"app-2-client-c7865f8d-79n7g" -> "app-2-server-554db7db4c-8446k" [ color="green", label="5ms 200000.00mbps", latency="5", throughput="200000.00", type="networkComRequirement",  weight=0 ];
+
+	"app-1-client-5c7976bd6-pwwf4" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-client-5c7976bd6-pwwf4" -> "worker-1" [ type="assign",  weight=0 ];
+
+	"app-1-client-5c7976bd6-pwwf4" -> "app-1-server-64cbb44745-xgfjr" [ color="green", label="5ms 30000.00mbps", latency="5", throughput="30000.00", type="networkComRequirement",  weight=0 ];
+
+}
