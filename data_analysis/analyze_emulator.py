@@ -104,23 +104,60 @@ def avg_metrics_by_app(data: dict) -> dict:
 
 
 def plot_app_metrics(app_metrics: dict, save_to_path: str):
-    apps = list(app_metrics.keys())
+    apps = sorted(app_metrics.keys(), key=lambda x: int(re.search(r"\d+", x).group()))
+
     latencies = [app_metrics[a]["latency"] for a in apps]
     throughputs = [app_metrics[a]["throughput"] for a in apps]
 
     x = range(len(apps))
     width = 0.35
 
-    plt.figure()
-    plt.bar([i - width / 2 for i in x], latencies, width=width, label="Latency")
-    plt.bar([i + width / 2 for i in x], throughputs, width=width, label="Throughput")
+    fig, ax1 = plt.subplots()
+    ax2 = ax1.twinx()
 
-    plt.xticks(x, apps, rotation=45)
-    plt.ylabel("Average Value")
+    lat_color = "tab:blue"
+    thr_color = "tab:orange"
+
+    ax1.bar(
+        [i - width / 2 for i in x],
+        latencies,
+        width=width,
+        label="Latency (ms)",
+        color=lat_color,
+    )
+    ax2.bar(
+        [i + width / 2 for i in x],
+        throughputs,
+        width=width,
+        label="Throughput (kbps)",
+        color=thr_color,
+    )
+
+    ax1.set_xticks(list(x))
+    ax1.set_xticklabels(apps, rotation=45)
+
+    ax1.set_ylabel("Latency (ms)")
+    ax2.set_ylabel("Throughput (kbps)")
+
+    # Add headroom so legend fits
+    if latencies:
+        ax1.set_ylim(0, max(latencies) * 1.25)
+    if throughputs:
+        ax2.set_ylim(0, max(throughputs) * 1.25)
+
+    ax1.grid(True, which="both", linestyle="--", linewidth=0.5, alpha=0.7)
+
     plt.title("Average Latency and Throughput per App")
-    plt.legend()
+
+    # Legend inside, top-center
+    lines, labels = ax1.get_legend_handles_labels()
+    lines2, labels2 = ax2.get_legend_handles_labels()
+    ax1.legend(
+        lines + lines2, labels + labels2, loc="upper center", ncol=2, frameon=True
+    )
+
     plt.tight_layout()
-    plt.savefig(save_to_path, dpi=200)
+    plt.savefig(save_to_path, dpi=300)
     plt.close()
 
 
@@ -187,7 +224,7 @@ def plot_machine_metrics(data_dir, save_to_path):
         ax.set_ylim(1, max_rtt)
         ax.set_yscale("log")
         ax2.set_ylabel("Throughput (Kbit/s)")
-        ax2.set_ylim(0, 1100)
+        ax2.set_ylim(0, 220)
         ax.set_title(machine)
         ax.grid(True, which="both", linestyle="--", linewidth=0.5, alpha=0.5)
         ax2.grid(False)
@@ -308,4 +345,12 @@ plot_app_metrics(
     avg_metrics_by_app(structured_data_by_machines),
     data_dir.decode() + "/../results/app_metrics.png",
 )
-print(avg_across_apps(avg_metrics_by_app(structured_data_by_machines)))
+metrics = avg_across_apps(avg_metrics_by_app(structured_data_by_machines))
+
+print(r"\begin{tabular}{lcc}")
+print(r"\hline")
+print(r"Metric & Latency (ms) & Throughput (kbps) \\")
+print(r"\hline")
+print(f"Average & {metrics['latency']:.2f} & {metrics['throughput']:.2f} \\\\")
+print(r"\hline")
+print(r"\end{tabular}")
