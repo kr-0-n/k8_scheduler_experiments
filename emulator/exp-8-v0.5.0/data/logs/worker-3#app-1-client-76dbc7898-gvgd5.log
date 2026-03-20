@@ -1,0 +1,18 @@
+TIME: 1773851637
+Connecting to host app-1-server, port 5003
+[  5] local 10.42.9.5 port 52432 connected to 10.43.210.26 port 5003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  24.5 KBytes   200 Kbits/sec    0   13.7 KBytes       
+[  5]   1.00-2.00   sec  24.3 KBytes   199 Kbits/sec    0   13.7 KBytes       
+[  5]   2.00-3.00   sec  24.5 KBytes   201 Kbits/sec    0   13.7 KBytes       
+[  5]   3.00-4.00   sec  24.5 KBytes   201 Kbits/sec    0   13.7 KBytes       
+[  5]   4.00-5.00   sec  24.3 KBytes   199 Kbits/sec    0   13.7 KBytes       
+[  5]   5.00-6.00   sec  24.5 KBytes   201 Kbits/sec    0   13.7 KBytes       
+[  5]   6.00-7.01   sec  24.5 KBytes   200 Kbits/sec    0   13.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-7.01   sec   171 KBytes   200 Kbits/sec    0             sender
+[  5]   0.00-7.07   sec   171 KBytes   198 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-1-server (eth0 10.43.210.26): S set, 40 headers + 0 data bytes

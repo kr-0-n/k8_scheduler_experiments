@@ -1,0 +1,29 @@
+TIME: 1773861740
+Connecting to host app-1-server, port 5006
+[  5] local 10.42.4.5 port 41966 connected to 10.43.249.188 port 5006
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  24.5 KBytes   201 Kbits/sec    0   13.7 KBytes       
+[  5]   1.00-2.00   sec  24.3 KBytes   199 Kbits/sec    0   24.6 KBytes       
+[  5]   2.00-3.00   sec  24.5 KBytes   201 Kbits/sec    0   35.5 KBytes       
+[  5]   3.00-4.00   sec  24.5 KBytes   201 Kbits/sec    0   36.9 KBytes       
+[  5]   4.00-5.00   sec  24.3 KBytes   199 Kbits/sec    0   36.9 KBytes       
+[  5]   5.00-6.00   sec  24.5 KBytes   201 Kbits/sec    0   36.9 KBytes       
+[  5]   6.00-7.00   sec  24.3 KBytes   199 Kbits/sec    0   36.9 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-7.00   sec   171 KBytes   200 Kbits/sec    0             sender
+[  5]   0.00-8.05   sec   170 KBytes   173 Kbits/sec                  receiver
+
+iperf Done.
+HPING app-1-server (eth0 10.43.249.188): S set, 40 headers + 0 data bytes
+len=44 ip=10.43.249.188 ttl=62 DF id=0 sport=5001 flags=SA seq=0 win=64860 rtt=59.6 ms
+len=44 ip=10.43.249.188 ttl=62 DF id=0 sport=5001 flags=SA seq=1 win=64860 rtt=55.3 ms
+len=44 ip=10.43.249.188 ttl=62 DF id=0 sport=5001 flags=SA seq=2 win=64860 rtt=39.1 ms
+len=44 ip=10.43.249.188 ttl=62 DF id=0 sport=5001 flags=SA seq=3 win=64860 rtt=238.9 ms
+len=44 ip=10.43.249.188 ttl=62 DF id=0 sport=5001 flags=SA seq=4 win=64860 rtt=566.7 ms
+len=44 ip=10.43.249.188 ttl=62 DF id=0 sport=5001 flags=SA seq=5 win=64860 rtt=870.3 ms
+len=44 ip=10.43.249.188 ttl=62 DF id=0 sport=5001 flags=SA seq=6 win=64860 rtt=1134.2 ms
+len=44 ip=10.43.249.188 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=1422.1 ms
+len=44 ip=10.43.249.188 ttl=62 DF id=0 sport=5001 flags=SA seq=8 win=64860 rtt=1302.0 ms
+DUP! len=44 ip=10.43.249.188 ttl=62 DF id=0 sport=5001 flags=SA seq=7 win=64860 rtt=2426.1 ms
+TIME: 1773861767
