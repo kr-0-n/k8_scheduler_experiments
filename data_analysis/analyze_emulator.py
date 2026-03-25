@@ -354,3 +354,19 @@ print(r"\hline")
 print(f"Average & {metrics['latency']:.2f} & {metrics['throughput']:.2f} \\\\")
 print(r"\hline")
 print(r"\end{tabular}")
+
+
+app_metrics = avg_metrics_by_app(structured_data_by_machines)
+apps = sorted(app_metrics.keys(), key=lambda x: int(re.search(r"\d+", x).group()))
+
+print(r"\begin{tabular}{lcc}")
+print(r"\hline")
+print(r"App & Latency (ms) & Throughput (kbps) \\")
+print(r"\hline")
+
+for app in apps:
+    m = app_metrics[app]
+    print(f"{app} & {m['latency']:.2f} & {m['throughput']:.2f} \\\\")
+
+print(r"\hline")
+print(r"\end{tabular}")
