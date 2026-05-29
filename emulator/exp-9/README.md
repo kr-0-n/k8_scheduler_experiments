@@ -1,8 +1,6 @@
 # Experiment 9
 
 The ninth experiment includes a topology change. 
-- App1 communicates less
-- Satcom got reduced
 
 ## Walkthrough
 
