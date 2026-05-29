@@ -1,0 +1,128 @@
+strict digraph {
+
+	K="0.6";
+
+	layout="fdp";
+
+	overlap="false";
+
+	splines="line";
+
+
+	"minikube-m07" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"minikube-m07" -> "minikube-m08" [ label="5ms 0.50mbps", latency="5", throughput="0.50", type="connection",  weight=0 ];
+
+	"minikube-m07" -> "minikube" [ label="5ms 0.50mbps", latency="5", throughput="0.50", type="connection",  weight=0 ];
+
+	"minikube-m07" -> "minikube-m06" [ label="5ms 0.50mbps", latency="5", throughput="0.50", type="connection",  weight=0 ];
+
+	"app-1-client-6d5ccbbf87-6777m" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-client-6d5ccbbf87-6777m" -> "app-1-server-845d74f56-cktxh" [ color="green", label="5ms 0.03mbps", latency="5", throughput="0.03", type="networkComRequirement",  weight=0 ];
+
+	"app-1-client-6d5ccbbf87-srhjl" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-client-6d5ccbbf87-srhjl" -> "app-1-server-845d74f56-cktxh" [ color="green", label="5ms 0.03mbps", latency="5", throughput="0.03", type="networkComRequirement",  weight=0 ];
+
+	"minikube-m04" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"minikube-m04" -> "minikube-m02" [ label="20ms 0.08mbps", latency="20", throughput="0.08", type="connection",  weight=0 ];
+
+	"minikube-m04" -> "minikube-m05" [ label="20ms 0.08mbps", latency="20", throughput="0.08", type="connection",  weight=0 ];
+
+	"minikube-m04" -> "minikube-m03" [ label="20ms 0.08mbps", latency="20", throughput="0.08", type="connection",  weight=0 ];
+
+	"app-1-server-845d74f56-cktxh" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-2-client-7cc789c785-lkh4b" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-2-client-7cc789c785-lkh4b" -> "app-2-server-584c6b6dcd-j5ftp" [ color="green", label="5ms 0.20mbps", latency="5", throughput="0.20", type="networkComRequirement",  weight=0 ];
+
+	"minikube-m02" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"minikube-m02" -> "minikube-m03" [ label="10ms 0.08mbps", latency="10", throughput="0.08", type="connection",  weight=0 ];
+
+	"minikube-m02" -> "minikube-m05" [ label="10ms 0.08mbps", latency="10", throughput="0.08", type="connection",  weight=0 ];
+
+	"minikube-m02" -> "minikube-m04" [ label="20ms 0.08mbps", latency="20", throughput="0.08", type="connection",  weight=0 ];
+
+	"minikube-m02" -> "minikube" [ label="2ms 100.00mbps", latency="2", throughput="100.00", type="connection",  weight=0 ];
+
+	"minikube-m08" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"minikube-m08" -> "minikube-m05" [ label="250ms 0.55mbps", latency="250", throughput="0.55", type="connection",  weight=0 ];
+
+	"minikube-m08" -> "minikube" [ label="5ms 0.50mbps", latency="5", throughput="0.50", type="connection",  weight=0 ];
+
+	"minikube-m08" -> "minikube-m06" [ label="5ms 0.50mbps", latency="5", throughput="0.50", type="connection",  weight=0 ];
+
+	"minikube-m08" -> "minikube-m07" [ label="5ms 0.50mbps", latency="5", throughput="0.50", type="connection",  weight=0 ];
+
+	"app-2-client-7cc789c785-ksn6q" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-2-client-7cc789c785-ksn6q" -> "app-2-server-584c6b6dcd-j5ftp" [ color="green", label="5ms 0.20mbps", latency="5", throughput="0.20", type="networkComRequirement",  weight=0 ];
+
+	"app-2-server-584c6b6dcd-j5ftp" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"minikube-m03" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"minikube-m03" -> "minikube-m05" [ label="10ms 0.08mbps", latency="10", throughput="0.08", type="connection",  weight=0 ];
+
+	"minikube-m03" -> "minikube-m02" [ label="10ms 0.08mbps", latency="10", throughput="0.08", type="connection",  weight=0 ];
+
+	"minikube-m03" -> "minikube-m04" [ label="20ms 0.08mbps", latency="20", throughput="0.08", type="connection",  weight=0 ];
+
+	"minikube-m05" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"minikube-m05" -> "minikube-m02" [ label="10ms 0.08mbps", latency="10", throughput="0.08", type="connection",  weight=0 ];
+
+	"minikube-m05" -> "minikube-m04" [ label="20ms 0.08mbps", latency="20", throughput="0.08", type="connection",  weight=0 ];
+
+	"minikube-m05" -> "minikube-m03" [ label="10ms 0.08mbps", latency="10", throughput="0.08", type="connection",  weight=0 ];
+
+	"minikube-m05" -> "minikube-m08" [ label="250ms 0.55mbps", latency="250", throughput="0.55", type="connection",  weight=0 ];
+
+	"app-1-client-6d5ccbbf87-4t5hb" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-client-6d5ccbbf87-4t5hb" -> "app-1-server-845d74f56-cktxh" [ color="green", label="5ms 0.03mbps", latency="5", throughput="0.03", type="networkComRequirement",  weight=0 ];
+
+	"app-2-client-7cc789c785-pfpnk" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-2-client-7cc789c785-pfpnk" -> "app-2-server-584c6b6dcd-j5ftp" [ color="green", label="5ms 0.20mbps", latency="5", throughput="0.20", type="networkComRequirement",  weight=0 ];
+
+	"minikube" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"minikube" -> "minikube-m02" [ label="2ms 100.00mbps", latency="2", throughput="100.00", type="connection",  weight=0 ];
+
+	"minikube" -> "minikube-m08" [ label="5ms 0.50mbps", latency="5", throughput="0.50", type="connection",  weight=0 ];
+
+	"minikube" -> "minikube-m07" [ label="5ms 0.50mbps", latency="5", throughput="0.50", type="connection",  weight=0 ];
+
+	"minikube" -> "minikube-m06" [ label="5ms 0.50mbps", latency="5", throughput="0.50", type="connection",  weight=0 ];
+
+	"apiserver-6f7ff694bf-mjdl7" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"apiserver-6f7ff694bf-mjdl7" -> "minikube" [ type="assign",  weight=0 ];
+
+	"app-1-client-6d5ccbbf87-29v9q" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-client-6d5ccbbf87-29v9q" -> "app-1-server-845d74f56-cktxh" [ color="green", label="5ms 0.03mbps", latency="5", throughput="0.03", type="networkComRequirement",  weight=0 ];
+
+	"app-1-client-6d5ccbbf87-bfmvs" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-client-6d5ccbbf87-bfmvs" -> "app-1-server-845d74f56-cktxh" [ color="green", label="5ms 0.03mbps", latency="5", throughput="0.03", type="networkComRequirement",  weight=0 ];
+
+	"app-1-client-6d5ccbbf87-4bt29" [ color="2", colorscheme="greens3", fillcolor="1", shape="ellipse", style="filled",  weight=0 ];
+
+	"app-1-client-6d5ccbbf87-4bt29" -> "app-1-server-845d74f56-cktxh" [ color="green", label="5ms 0.03mbps", latency="5", throughput="0.03", type="networkComRequirement",  weight=0 ];
+
+	"minikube-m06" [ color="2", colorscheme="blues3", fillcolor="1", shape="rect", style="filled",  weight=0 ];
+
+	"minikube-m06" -> "minikube" [ label="5ms 0.50mbps", latency="5", throughput="0.50", type="connection",  weight=0 ];
+
+	"minikube-m06" -> "minikube-m07" [ label="5ms 0.50mbps", latency="5", throughput="0.50", type="connection",  weight=0 ];
+
+	"minikube-m06" -> "minikube-m08" [ label="5ms 0.50mbps", latency="5", throughput="0.50", type="connection",  weight=0 ];
+
+}
