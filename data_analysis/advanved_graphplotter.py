@@ -25,26 +25,26 @@ def shorten(name):
 
 
 def build_layout(G):
-    # pos = {
-    #     "worker-5": (0, 1),
-    #     "worker-0": (1, 1),
-    #     "worker-1": (2, 1),
-    #     "worker-4": (3, 1),
-    #     "worker-6": (0, 0),
-    #     "manager-0": (1, 0),
-    #     "worker-2": (2, 0),
-    #     "worker-3": (3, 0),
-    # }
     pos = {
-        "minikube-m07": (0, 1),
-        "minikube-m08": (1, 1),
-        "minikube-m05": (2, 1),
-        "minikube-m04": (3, 1),
-        "minikube-m06": (0, 0),
-        "minikube": (1, 0),
-        "minikube-m02": (2, 0),
-        "minikube-m03": (3, 0),
+        "worker-5": (0, 1),
+        "worker-0": (1, 1),
+        "worker-1": (2, 1),
+        "worker-4": (3, 1),
+        "worker-6": (0, 0),
+        "manager-0": (1, 0),
+        "worker-2": (2, 0),
+        "worker-3": (3, 0),
     }
+    # pos = {
+    #     "minikube-m07": (0, 1),
+    #     "minikube-m08": (1, 1),
+    #     "minikube-m05": (2, 1),
+    #     "minikube-m04": (3, 1),
+    #     "minikube-m06": (0, 0),
+    #     "minikube": (1, 0),
+    #     "minikube-m02": (2, 0),
+    #     "minikube-m03": (3, 0),
+    # }
 
     worker_pods = {}
 
